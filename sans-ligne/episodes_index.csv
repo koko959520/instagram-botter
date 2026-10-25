@@ -1,0 +1,601 @@
+﻿episode,livre,titre_livre,chapitre,titre_chapitre,titre,resume,persos,type
+1,1,LE PORTEUR,1,Le Dernier Convoi,L'Homme que personne n'écrit,"Cold open : une main d'or trace une ligne dans le noir. Aube au Faubourg des Sables : Idriss, porteur de rang Sable, nourrit sa famille d'espoir. Sa mère tousse, sa sœur révise, sa grand-mère accorde sa kora. Un appel : raid de dernière minute.","ID, MA, NO, BI",ÉMOTION
+2,1,LE PORTEUR,1,Le Dernier Convoi,Quarante Dinars,"Pharmacie, loyer, facture de l'hôpital : Nour veut quitter le lycée, Idriss refuse. Aux Tours du Soleil, il rejoint l'équipe du Capitaine Sidibé. Aïcha la guérisseuse est bienveillante, Brahim Cissé le raille.","ID, NO, BC",TENSION
+3,1,LE PORTEUR,1,Le Dernier Convoi,Gao-Nord,"Le convoi arrive devant un Sarab de rang Cuivre. Le monde des Éveillés est exposé en trois cases. Dans le mirage, Idriss porte et observe. Souvenir : son père lui noue l'écharpe indigo, « jusqu'à mon retour ».","ID, BC, MOU",LORE
+4,1,LE PORTEUR,1,Le Dernier Convoi,La Porte Cachée,"Le boss tombé, derrière la salle du trésor, Sidibé découvre une porte sans marque. Idriss s'y oppose, personne n'écoute : l'avidité est plus forte que la prudence.","ID, BC",TENSION
+5,1,LE PORTEUR,1,Le Dernier Convoi,Le Caravansérail,"Une cour d'or, sept sphinx. Quand leurs yeux s'allument, Brahim, dernier à passer, s'enfuit. La porte se scelle sur le groupe. Le premier sphinx pose son énigme.","ID, BC",ACTION
+6,1,LE PORTEUR,1,Le Dernier Convoi,Les Sept Énigmes,"Les réponses se trompent, les hommes tombent. Sidibé improvise, brûle ses forces. Aïcha tient Idriss par le bras : « Reste derrière moi. » Quatre morts.",ID,TENSION
+7,1,LE PORTEUR,1,Le Dernier Convoi,Le Sang sur le Sable,"Sidibé se sacrifie pour gagner du temps. Aïcha, mourante, murmure : « Rentre voir ta mère. » Seul, Idriss fait face au septième sphinx.",ID,ÉMOTION
+8,1,LE PORTEUR,1,Le Dernier Convoi,Qui a écrit ton nom ?,"Le sphinx demande : « Qui a écrit ton nom ? » Idriss, brisé : « Personne. Pas encore. » Silence. « Alors écris-le. » Une plume d'or sort du mur.",ID,RÉVÉLATION
+9,1,LE PORTEUR,1,Le Dernier Convoi,L'Encre dans le Sang,"La plume se fond dans sa paume ; l'encre court dans ses veines. Un glyphe d'or apparaît sur sa main droite, ses yeux s'ourlent d'or. Les statues s'effritent ; il s'évanouit.",ID,ACTION
+10,1,LE PORTEUR,1,Le Dernier Convoi,Le Seul Survivant,"L'équipe de secours le trouve. Brahim l'accuse d'avoir ouvert la porte. Sa mère crie son nom aux portes de l'ambulance. Dans le noir, une ligne d'or : « Éveil reconnu. »","ID, BC, MA, NO",CLIFF
+11,1,LE PORTEUR,2,Le Lawh,Les Murs Blancs,"À l'hôpital, les médecins ne trouvent aucune blessure. Une fenêtre de parchemin flotte au plafond. Idriss croit à une commotion, ferme les yeux — elle est toujours là.",ID,LORE
+12,1,LE PORTEUR,2,Le Lawh,L'Audition,"Devant le Diwan présidé par Haj Boubacar Sy, la version de Brahim contre le silence d'Idriss. Pas de sanction, pas d'indemnité. Boubacar le regarde un instant de trop.","ID, BS, BC",TENSION
+13,1,LE PORTEUR,2,Le Lawh,La Facture,"La facture d'hôpital, la toux de sa mère qui empire. Binta chante pour la calmer et murmure la légende de « ceux dont le nom n'est pas encore écrit ».","ID, MA, NO, BI",ÉMOTION
+14,1,LE PORTEUR,2,Le Lawh,La Traversée,"La nuit, le Lawh s'ouvre : l'Épreuve du Jour (jarre de 20 L sur 10 km, 100 pompes, 100 passes d'ombre, une page à copier). En cas d'échec : La Soif. Il rit… puis voit le compte à rebours.",ID,LORE
+15,1,LE PORTEUR,2,Le Lawh,La Soif,"Le temps expire. Un désert sans fin, des scorpions de verre, un soleil rouge. Quatre heures d'enfer. Il survit en se cachant sous son écharpe. Retour : trois minutes ont passé.",ID,ACTION
+16,1,LE PORTEUR,2,Le Lawh,Vingt Litres,"À l'aube, il porte une jarre dans les ruelles, terrifié. Les voisins sourient. Mariam le voit, éclate de rire pour la première fois depuis des semaines.","ID, MA",HUMOUR
+17,1,LE PORTEUR,2,Le Lawh,Le Souk du Lawh,"La boutique du Lawh s'ouvre : baume, élixirs, outils. Avec ses premières pièces d'encre, il achète un baume pour la toux de sa mère. Soulagement fragile.","ID, MA",RESPIRATION
+18,1,LE PORTEUR,2,Le Lawh,Un Autre Corps,"Jour 8 : ses muscles changent, ses gestes accélèrent. Il casse une poignée de porte, cache les dégâts à Nour qui plisse les yeux.","ID, NO",HUMOUR
+19,1,LE PORTEUR,2,Le Lawh,La Fissure de la Rue des Tisserands,"Un micro-Sarab s'ouvre dans le marché. Les chasseurs sont en retard ; des chacals-bébés attaquent. Idriss tue le premier par réflexe, tout le monde croit à un passant éveillé.",ID,ACTION
+20,1,LE PORTEUR,2,Le Lawh,Premier Appel,"Le Lawh : « Sarab de rang Sable détecté à 3 km. Récompense : première inscription. » Brahim, croisé devant chez lui, le menace. À l'horizon, le mirage scintille.","ID, BC",CLIFF
+21,1,LE PORTEUR,3,La Sueur et le Sable,Le Sarab de la Cuvette,"Premier Sarab solo. Les chacals le massacrent, il s'enfuit en rampant. Niveau 2. Il comprend que le Lawh ne fait pas de cadeau.",ID,ACTION
+22,1,LE PORTEUR,3,La Sueur et le Sable,Mourir pour Monter,"Il revient chaque nuit, apprend le terrain, utilise la jarre comme arme. Le Lawh note : « Sans risque, pas de ligne. » Niveau 5.",ID,ACTION
+23,1,LE PORTEUR,3,La Sueur et le Sable,Yaw le Bélier,"À l'entrée du Sarab, un colosse ghanéen rit à gorge déployée : Yaw Mensah. Il engage Idriss comme porteur et lui demande pourquoi il sourit toujours. Première amitié.","ID, YA",HUMOUR
+24,1,LE PORTEUR,3,La Sueur et le Sable,Les Poings de Brahim,"Au Diwan, Brahim humilie Idriss devant tout le monde. Idriss encaisse. Yaw s'interpose. Brahim part en promettant de les écraser tous les deux.","ID, BC, YA",TENSION
+25,1,LE PORTEUR,3,La Sueur et le Sable,Le Repas de Mariam,"Thiéboudienne pour tous. Nour montre son bulletin, Binta joue de la kora. Idriss mesure le prix de chaque sourire et la force de sa promesse.","ID, MA, NO, BI",RESPIRATION
+26,1,LE PORTEUR,3,La Sueur et le Sable,La Pluie,"Épuisé, il rate presque la limite de l'Épreuve. Sous un orage, il termine les 10 km à la dernière minute. Premiers points de statut distribués.",ID,ACTION
+27,1,LE PORTEUR,3,La Sueur et le Sable,Le Marché Rouge,Il vend ses butins au marché noir. Des voyous de la Caravane d'Or tentent de le détrousser. Premier combat contre des humains ; il se retient.,ID,ACTION
+28,1,LE PORTEUR,3,La Sueur et le Sable,Statistiques,"Calcul comique devant le Lawh : où mettre ses points ? PER 20 débloque le Pas du Mirage. Il le teste sur le toit de la maison, atterrit dans le linge.",ID,HUMOUR
+29,1,LE PORTEUR,3,La Sueur et le Sable,Le Sarab du Pont,"Rumeur d'un Sarab sous le vieux pont. L'équipe de Brahim et Yaw cherchent des porteurs. Idriss se porte volontaire, officiellement pour l'argent.","ID, BC, YA",TENSION
+30,1,LE PORTEUR,3,La Sueur et le Sable,Le Pont Maudit,Des crocodiles de pierre embusquent l'équipe. Idriss sauve Yaw d'un Pas du Mirage invisible. Brahim voit une silhouette floue passer.,"ID, BC, YA",CLIFF
+31,1,LE PORTEUR,4,Le Puits Sans Fond,L'Odeur du Doute,Brahim soupçonne. Yaw remercie un « inconnu ». Le Diwan ouvre un dossier sur l'incident du Pont. Idriss détourne l'attention comme il peut.,"ID, BC, YA",TENSION
+32,1,LE PORTEUR,4,Le Puits Sans Fond,Quête d'Urgence,"Le Lawh : « Puits Sans Fond (rang Cuivre). Récompense importante. Niveau recommandé : 10. » Il part de nuit, laissant un mot à Nour.",ID,LORE
+33,1,LE PORTEUR,4,Le Puits Sans Fond,La Margelle,"Descente dans un puits-boyau. Chaleur, scorpions-crocodiles, obscurité. Il apprend à marcher sans bruit. Les murs respirent.",ID,TENSION
+34,1,LE PORTEUR,4,Le Puits Sans Fond,Le Seigneur du Puits,"Au fond, un scorpion colossal portant une lanterne dans sa queue. Le Seigneur du Puits attaque : Idriss est projeté contre la paroi.",ID,ACTION
+35,1,LE PORTEUR,4,Le Puits Sans Fond,Sable dans les Yeux,"Il se souvient de Sidibé, de la peur ; il improvise avec l'eau de sa gourde, aveugle le monstre. Il manque de peu la mort.",ID,ACTION
+36,1,LE PORTEUR,4,Le Puits Sans Fond,La Lame d'Encre,"Acculé, son sang se mêle à l'encre : la Lame d'Encre naît. Il tranche la queue lumineuse du monstre, plongeant le Puits dans le noir.",ID,ACTION
+37,1,LE PORTEUR,4,Le Puits Sans Fond,Le Premier Nom,"Le Seigneur du Puits mort, le Lawh propose l'« Inscription du Nom » mais refuse : niveau insuffisant. Récompense : niveau 20, Souffle de Nyama.",ID,LORE
+38,1,LE PORTEUR,4,Le Puits Sans Fond,Retour par la Poterne,"Il remonte à l'aube, en loques, et rentre chez lui en ayant oublié de changer de chemise. Humour et fatigue. Les voisins pensent qu'il a fait la fête.",ID,HUMOUR
+39,1,LE PORTEUR,4,Le Puits Sans Fond,Les Yeux de Nour,"Nour voit dans le noir les yeux de son frère luire d'or. Il nie. Elle ne le croit pas, mais ne dit rien. Elle commence un carnet.","ID, NO",ÉMOTION
+40,1,LE PORTEUR,4,Le Puits Sans Fond,Cent Mille Dinars,"Mariam s'effondre, il faut un traitement hors de prix. Le Lawh propose l'« Épreuve de Promotion » : 72 heures pour accepter.","ID, MA, NO",CLIFF
+41,1,LE PORTEUR,5,Les Sept Voiles,L'Épreuve de Promotion,"Il accepte. Un vent chaud, un désert de dunes et sept voiles de soie suspendus dans l'air. Règle : traverser les sept.",ID,LORE
+42,1,LE PORTEUR,5,Les Sept Voiles,Premier Voile : La Maison,"Derrière le premier voile, il revoit la maison de l'enfance : son père le quitte. Le voile teste la mémoire. Il tient bon.","ID, MOU",ÉMOTION
+43,1,LE PORTEUR,5,Les Sept Voiles,Deuxième et Troisième Voiles,"Des doubles de lui-même l'attaquent. Il se bat contre lui-même, comprend que la faiblesse est sa meilleure arme (il connaît ses limites).",ID,ACTION
+44,1,LE PORTEUR,5,Les Sept Voiles,Quatrième Voile : La Soif,"Les scorpions de verre. Plus fort, il les contourne et en brise un pour la première fois. Petite victoire sur son cauchemar.",ID,ACTION
+45,1,LE PORTEUR,5,Les Sept Voiles,Cinquième Voile : Le Silence,"Plus aucun son, un désert intérieur. Il marche des heures. Son souffle devient seule musique. Il apprend à s'écouter.",ID,RESPIRATION
+46,1,LE PORTEUR,5,Les Sept Voiles,Sixième Voile : Le Convoi,Aïcha lui apparaît : « Pourquoi toi ? » Il répond qu'il vivra pour que leur mort ne soit pas vaine. Le voile s'ouvre.,ID,ÉMOTION
+47,1,LE PORTEUR,5,Les Sept Voiles,Septième Voile : Le Cavalier,"Un cavalier touareg voilé d'indigo surgit sur un nuage de poussière. Duel à la takouba : Idriss est écrasé, sans pitié.","ID, AM",ACTION
+48,1,LE PORTEUR,5,Les Sept Voiles,Amghar,"Au bord de la mort, il écrit le nom du cavalier dans l'air. Le chevalier s'agenouille, ses yeux deviennent d'or. Premier Gardien. Changement de classe : Calligraphe.","ID, AM",RÉVÉLATION
+49,1,LE PORTEUR,5,Les Sept Voiles,Le Retour,Il revient chez lui à l'heure précise du départ. Le premier gain finance le traitement. Amghar se glisse dans son ombre. Le Diwan convoque Idriss pour une réévaluation.,"ID, MA, AM",ÉMOTION
+50,1,LE PORTEUR,5,Les Sept Voiles,Le Cauri se Fend,"Au Diwan, il touche la Pierre-Cauri : elle chauffe, brille, se fend. Silence de mort. Haj Boubacar l'observe. Dans le hall, un vendeur de thé sourit : Baba Salim.","ID, BS, SAL",CLIFF
+51,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Le Premier Verre,"Le Diwan déclare la Pierre-Cauri défectueuse ; Idriss est classé Cuivre. Boubacar le met en garde en privé. Dans l'atrium, Baba Salim lui sert un verre : « Le premier est amer, comme la vie. »","ID, BS, SAL",LORE
+52,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,La Licence,"Il reçoit sa licence d'Éveillé. Yaw fait la fête dans le couloir, explique les guildes. Idriss s'entraîne à se retenir pour ne pas se faire remarquer.","ID, YA",HUMOUR
+53,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Le Bruit du Vent,"Une fuite de Sarab dans l'atrium : Safiya Aït-Mansour abat le monstre en trois gestes. Son regard accroche Idriss : « Toi, tu ne fais aucun bruit. »","SF, ID, YA",RÉVÉLATION
+54,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Une Oreille Absolue,"Son don : entendre le Nyama de chacun comme une musique. Celui d'Idriss est silencieux. Elle en parle à Boubacar et décide de l'observer. Idriss l'évite, en vain.","SF, BS, ID",HUMOUR
+55,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Les Limites de l'Encre,"Dans une cave du Faubourg, il convoque Amghar pour la première fois. Les règles : l'encre s'épuise, les Gardiens se fatiguent. Amghar ne parle pas — il hoche la tête.","ID, AM",LORE
+56,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Les Yeux d'un Homme qui Écrit,Dîner avec Yaw. Binta regarde Idriss et murmure : « Tu as les yeux d'un homme qui écrit. » Nour lève un sourcil. Chaleur et mystère.,"ID, YA, BI, MA, NO",RESPIRATION
+57,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Brahim Perd la Face,Une vidéo de drone prouve que Brahim a fui au Caravansérail. Il est suspendu. Il hurle son innocence et jure de se venger.,"BC, BS, ID",TENSION
+58,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,La Poussière,"En mission, Idriss et Yaw trouvent des Éveillés dépendants de la « poussière de Sarab ». Tous toussent comme sa mère. Il comprend la source du mal.","ID, YA",LORE
+59,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Hamidou Diop,"Gala dans le Quartier des Cuivres : Hamidou Diop, patron de la Caravane d'Or, propose à Idriss de rejoindre sa guilde. À sa bague, le Lawh voit une marque d'or.","ID, HD",TENSION
+60,2,LE SCEAU DE FER,1,Le Cuivre qui Brille,Le Renard dans la Cage,"Au Marché Rouge, un renard du désert aux yeux d'or est enfermé. Idriss le libère. L'animal s'incline, le Lawh vibre : « Un nom errant te reconnaît. »","ID, YA, FE",CLIFF
+61,2,LE SCEAU DE FER,2,La Caravane d'Or,Fennek,"Idriss inscrit son nom : Fennek, ancien Gardien du Caravansérail resté sans maître. Nour l'adopte comme « chien errant ». Binta rit : elle sait.","ID, NO, FE, BI",HUMOUR
+62,2,LE SCEAU DE FER,2,La Caravane d'Or,Le Nez du Renard,Fennek flaire la poussière jusqu'au Port du Fleuve. Idriss et Yaw suivent. Les entrepôts sont gardés par des hommes à bagues dorées.,"ID, YA, FE",TENSION
+63,2,LE SCEAU DE FER,2,La Caravane d'Or,L'Entrepôt 9,"Dedans : des enfants trient la poussière. Idriss bouillonne. Au même moment, l'équipe de Safiya fait irruption par le toit.","ID, FE, SF",TENSION
+64,2,LE SCEAU DE FER,2,La Caravane d'Or,Deux Silences,"Safiya et Idriss combattent côte à côte contre les gardes. Il cache l'essentiel, elle sent qu'il se retient. Complicité naissante.","ID, SF, YA",ACTION
+65,2,LE SCEAU DE FER,2,La Caravane d'Or,Le Conseiller,"Le Conseiller Moustapha Doumbia saisit les preuves au nom du Diwan, étouffe l'affaire. Boubacar est mal à l'aise. Safiya aussi.","MD, BS, SF",TENSION
+66,2,LE SCEAU DE FER,2,La Caravane d'Or,L'Offre,Les hommes de Hamidou viennent proposer une fortune à Idriss. Il fait semblant d'hésiter pour infiltrer le réseau avec Safiya.,"ID, HD, SF",TENSION
+67,2,LE SCEAU DE FER,2,La Caravane d'Or,Nour au Marché,Les hommes d'Hamidou suivent Nour. Idriss les neutralise sans témoin avec l'aide muette d'Amghar. Nour sent un danger mais ne sait rien.,"ID, NO, YA, AM",ACTION
+68,2,LE SCEAU DE FER,2,La Caravane d'Or,Colère Froide,Fennek remonte la piste de la poussière jusqu'à une brèche à Taoudenni. Le Lawh affiche : « La Soif y dort. »,"ID, FE",LORE
+69,2,LE SCEAU DE FER,2,La Caravane d'Or,Rapport Classifié,Boubacar assigne une mission secrète à Taoudenni avec Safiya et Yaw. La paie finance la suite du traitement. Mariam bénit son fils.,"ID, BS, SF, MA",ÉMOTION
+70,2,LE SCEAU DE FER,2,La Caravane d'Or,Le Convoi,"Départ. Sur la place, Baba Salim leur fait signe, théière à la main. Pourquoi sait-il où ils vont ?","ID, SF, YA, SAL",CLIFF
+71,2,LE SCEAU DE FER,3,Taoudenni,La Route du Sel,"Le convoi traverse le Sahara. Nuit de campement : dattes, étoiles, Safiya et Idriss parlent doucement. Yaw ronfle comme un moteur.","ID, SF, YA",RESPIRATION
+72,2,LE SCEAU DE FER,3,Taoudenni,Les Mines,"Taoudenni : mineurs, caravanes de dromadaires, chaleur extrême. Le vieux Tamat, ancien targui, accueille l'équipe.","ID, SF, YA",LORE
+73,2,LE SCEAU DE FER,3,Taoudenni,L'Étoffe du Désert,Tamat voit l'écharpe indigo : « Cette étoffe a traversé ici. » Il se met à pleurer. Le monde d'Idriss bascule.,ID,RÉVÉLATION
+74,2,LE SCEAU DE FER,3,Taoudenni,Le Récit de Tamat,"Il y a douze ans, Moussa Keïta tenta de refermer une porte de sel, puis disparut. Tamat lui a donné cette même teinture.",ID,ÉMOTION
+75,2,LE SCEAU DE FER,3,Taoudenni,Le Mirage de Midi,Une ville apparaît dans le ciel. Les boussoles tournent. Les salines deviennent miroirs : un Sarab Clos se forme.,"ID, SF, YA",LORE
+76,2,LE SCEAU DE FER,3,Taoudenni,La Porte de Sel,Quarante mineurs entrent dans la porte hypnotisés. L'équipe les suit. La porte se scelle dans leur dos : pas de sortie avant la mort du maître.,"ID, SF, YA",ACTION
+77,2,LE SCEAU DE FER,3,Taoudenni,Le Verrou,"Dans le Sarab Clos : règles, ressources, huit hommes. Fennek flaire un danger. Yaw plaisante pour détendre.","ID, SF, YA, FE",TENSION
+78,2,LE SCEAU DE FER,3,Taoudenni,Le Labyrinthe Blanc,Le labyrinthe de sel et de miroirs. Hallucinations. Le Fer Rabiou panique et frappe ses camarades.,"ID, SF, YA",TENSION
+79,2,LE SCEAU DE FER,3,Taoudenni,Les Mineurs de Sel,"Les mineurs sont figés en statues de sel, encore vivants. Idriss comprend : ils seront rendus si le maître meurt.","ID, SF, YA",LORE
+80,2,LE SCEAU DE FER,3,Taoudenni,La Voix du Roi,Une voix profonde parle à Idriss : « Calame-Porteur ». Rabiou meurt sous ses yeux. Safiya a tout entendu.,"ID, SF",CLIFF
+81,2,LE SCEAU DE FER,4,Le Sarab Clos,Le Pas du Mirage,Safiya est piégée par une lame de sel. Idriss apparaît derrière elle en un clin d'œil et la sauve. Elle voit tout.,"ID, SF",ACTION
+82,2,LE SCEAU DE FER,4,Le Sarab Clos,Le Serment,"Elle promet le silence. Il lui avoue une part de vérité : un pouvoir, sans dire d'où. Elle accepte, intriguée et inquiète.","ID, SF",ÉMOTION
+83,2,LE SCEAU DE FER,4,Le Sarab Clos,Le Roi du Sel,"Le Roi du Sel, géant de cristal de quatre mètres, lève une armée de spectres. L'équipe est dispersée dans le labyrinthe.","ID, SF, YA",ACTION
+84,2,LE SCEAU DE FER,4,Le Sarab Clos,Le Mur de Yaw,"Yaw tient seul une vague de sel avec son bouclier Gye Nyame. Sa foi, son rire, sa force. Il devient un vrai tank.",YA,ACTION
+85,2,LE SCEAU DE FER,4,Le Sarab Clos,Fennek en Danger,"Fennek sert d'appât, se fait capturer. Idriss laisse éclater sa colère.","ID, FE",TENSION
+86,2,LE SCEAU DE FER,4,Le Sarab Clos,L'Encre et le Sel,"Sa Lame d'Encre se dissout dans le sel. Il adapte : encre épaisse, forgée comme un marteau.",ID,ACTION
+87,2,LE SCEAU DE FER,4,Le Sarab Clos,Amghar,Amghar sort au grand jour pour la première fois. Safiya ouvre les yeux. Le Cavalier Voilé tranche la garde de sel.,"ID, AM, SF",ACTION
+88,2,LE SCEAU DE FER,4,Le Sarab Clos,La Colère de Safiya,Safiya est blessée en protégeant Yaw. Idriss perd son calme ; le Lawh avertit : « Encre instable. » Il se force à respirer.,"ID, SF, YA",TENSION
+89,2,LE SCEAU DE FER,4,Le Sarab Clos,Le Dernier Cristal,"Il fend le cœur du Roi du Sel. Avant de mourir, celui-ci murmure : « Neuf trônes… la Soif revient. » Il laisse une Couronne de Sel.","ID, SF, YA",ACTION
+90,2,LE SCEAU DE FER,4,Le Sarab Clos,La Porte se Brise,"Les mineurs reviennent à la vie, la porte vole en éclats. Tamat pleure de joie. Mais dans le sel brisé, un mot que personne n'a gravé apparaît, lettre après lettre : « SOIF ».","ID, SF, YA",CLIFF
+91,2,LE SCEAU DE FER,5,Le Prix du Sel,Retour en Héros,Une foule les attend à Al-Wagadou. La journaliste Jamila Oyelaran et son drone Zouzou les assaillent. Safiya s'attribue la victoire pour protéger Idriss.,"JO, SF, ID",HUMOUR
+92,2,LE SCEAU DE FER,5,Le Prix du Sel,Marge,"Primes et salaires : médicaments de Mariam, frais scolaires de Nour. Une famille qui respire. Idriss admire sa mère rire en cuisine.","ID, MA, NO",RESPIRATION
+93,2,LE SCEAU DE FER,5,Le Prix du Sel,L'Audition,"Hamidou contre-attaque : il accuse l'équipe d'avoir tué des civils. Brahim, suspendu, fait un faux témoignage. Moustapha préside, l'air attentif.","HD, BC, MD, BS",TENSION
+94,2,LE SCEAU DE FER,5,Le Prix du Sel,La Voix de Boubacar,"Boubacar, Safiya et Tamat prennent la parole. La salle bascule, mais il manque une preuve décisive.","BS, SF, ID",TENSION
+95,2,LE SCEAU DE FER,5,Le Prix du Sel,La Preuve de Fennek,"Fennek vole le registre de Hamidou, qui lie la Caravane d'Or à une entité nommée « Dhahab ». Les cadres s'affolent.","FE, ID",RÉVÉLATION
+96,2,LE SCEAU DE FER,5,Le Prix du Sel,Hamidou Tombe,"Le Diwan perquisitionne la Caravane d'Or. Hamidou s'échappe par le fleuve, couvert par un haut fonctionnaire : Moustapha.","HD, MD",ACTION
+97,2,LE SCEAU DE FER,5,Le Prix du Sel,Fer,"Idriss est promu Fer, Yaw aussi. Safiya est invitée à dîner chez les Keïta. Binta l'examine, Nour la scrute, Mariam la sert. Tout le monde rit.","ID, SF, YA, MA, NO, BI",RESPIRATION
+98,2,LE SCEAU DE FER,5,Le Prix du Sel,Les Trois Verres,"Baba Salim lui sert les trois verres : amer, doux, léger. « Il y a neuf trônes, Idriss. Tu en as rencontré l'ombre d'un seul. »","SAL, ID",LORE
+99,2,LE SCEAU DE FER,5,Le Prix du Sel,Le Rêve de Sel,"Il rêve de son père, pris dans le sel, la bouche muette. Au réveil, le Lawh clignote : « Quelqu'un lit par-dessus ton épaule. »","ID, MOU",CLIFF
+100,2,LE SCEAU DE FER,5,Le Prix du Sel,La Soif Approche,"À Taoudenni, la porte de sel se reforme. Une ombre colossale aux orbites pleines de sable : Zamma, Trône de la Soif. Le Lawh : « Livre II clos. »","ZAM, ID",CLIFF
+101,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Ordre de Mission,"Le Diwan envoie Idriss, Safiya et Yaw au Maroc : des Sarabs en série encerclent l'Atlas. À l'arrivée, l'ingénieure Kenza El Fassi les accueille, drôle et tranchante.","ID, SF, YA, KE",LORE
+102,3,LES REMPARTS DE L'ATLAS,1,Casablanca,La Ville Blanche,"Casablanca, mosquée sur l'océan, marchés, jazz de rue. Idriss, ébloui, marche avec Safiya. Kenza dévoile son labo : Balises-Cauris et exo-bras.","ID, SF, KE",RESPIRATION
+103,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Les Lions de Sundiata,"Le siège de la plus grande guilde du continent. Leur maître, Samba Kouyaté, teste les nouveaux venus. Rivalité de prestige.","ID, SF, YA",TENSION
+104,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Le Duel de Kenza,Kenza défie Yaw avec un bouclier-test ; elle gagne en trichant avec la physique. Elle rejoint l'équipe pour « étudier les anomalies ».,"KE, YA",HUMOUR
+105,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Le Sarab de la Tour,"Un Sarab s'ouvre au sommet d'une tour de bureaux. Combat vertical sur les façades, Idriss apprend à fusionner Pas du Mirage et gravité.","ID, SF, YA, KE",ACTION
+106,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Les Chats de Gelée,"Des monstres gélatineux envahissent un souk. Humour, tension, premier travail d'équipe.","ID, SF, YA, KE",HUMOUR
+107,3,LES REMPARTS DE L'ATLAS,1,Casablanca,La Médina la Nuit,"Safiya lui montre les ruelles de son enfance : thé à la menthe, écoute du vent. Elle lui parle de son frère Yanis et de l'Atlas.","ID, SF",RESPIRATION
+108,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Akli Aït-Mansour,"Le père de Safiya, chef du clan, arrive à Casablanca : fier, froid, méfiant envers les étrangers. Il convoque sa fille.","SF, ID",TENSION
+109,3,LES REMPARTS DE L'ATLAS,1,Casablanca,L'Appel de l'Atlas,Alerte : l'ighrem de Tamazirt est assiégé. Safiya doit partir. Le Diwan hésite. Moustapha traîne l'autorisation.,"SF, BS, MD",TENSION
+110,3,LES REMPARTS DE L'ATLAS,1,Casablanca,Contre l'Ordre,"Idriss, Yaw et Kenza décident d'y aller sans autorisation. Safiya, bouleversée, les regarde monter dans le convoi.","ID, SF, YA, KE",CLIFF
+111,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,La Route de Fès,"Le convoi est bloqué : à Fès, un Sarab encercle la ville et coupe la route de l'Atlas. Il faut le traverser.","ID, SF, YA, KE",LORE
+112,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,Les Cuves,"Les tanneries de Fès, cuves aux mille couleurs, devenues un labyrinthe. Odeurs, vapeurs, pièges.","ID, SF, YA, KE",TENSION
+113,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,Les Couleurs du Piège,"Chaque cuve est un piège colorant les victimes. Kenza déduit la logique : le rouge brûle, le bleu gèle, le jaune ment.","KE, ID",ACTION
+114,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,"Hibr, l'Ifrit d'Encre",Un ifrit qui écrit dans l'air et plie la réalité : Hibr. Ses mots deviennent lois. Il reconnaît le Calame.,"ID, HIB",ACTION
+115,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,La Plume contre la Plume,"Duel d'encre. Hibr écrit « Idriss tombe » ; Idriss efface la ligne. Combat conceptuel, visuellement dément.",ID,ACTION
+116,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,L'Encre qui Répare,"En retournant l'encre d'Hibr, Idriss découvre l'Encre Liquide : lier, soigner, réparer. Le bouclier de Yaw se ressoude.","ID, YA",ACTION
+117,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,Cuir et Mémoire,Un artisan teinturier les invite à manger. Safiya parle de sa mère. Idriss confie ses doutes. Humanité en pleine bataille.,"ID, SF, KE",RESPIRATION
+118,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,Le Dernier Teint,Hibr écrase l'équipe sous un déluge de mots. Safiya et Yaw gagnent du temps ; Idriss prend l'ascendant en réécrivant ses lignes.,"ID, SF, YA, KE",ACTION
+119,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,La Route Libre,Hibr vaincu murmure : « Les Neuf lisent par-dessus ton épaule. » L'essence d'encre est absorbée. Les portes de Fès s'ouvrent.,ID,RÉVÉLATION
+120,3,LES REMPARTS DE L'ATLAS,2,Le Labyrinthe des Tanneries,Les Corbeaux du Haut-Atlas,Des corbeaux-éclaireurs annoncent : Tamazirt est déjà assiégé par les Dents du Simoun. Il reste une nuit.,"ID, SF, YA, KE",CLIFF
+121,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Tamazirt,"La forteresse de pisé rouge accrochée à la montagne. Les villageois accueillent Safiya en héroïne. Son frère Yanis, 19 ans, la serre dans ses bras.","SF, ID, YA",ÉMOTION
+122,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,La Muraille,"Le plan du siège : trois remparts, un puits, un grenier scellé. Akli accepte à contrecœur l'aide des étrangers.","SF, ID, YA, KE",LORE
+123,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Le Premier Assaut,Première vague d'attaque. Safiya brille. Idriss se retient. Yaw tient une brèche.,"SF, ID, YA",ACTION
+124,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Les Dents du Simoun,"Des loups de vent rouge, rapides comme des éclairs. Yanis se bat bravement, Safiya veille sur lui.","SF, ID, YA",ACTION
+125,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Le Grenier Scellé,"Dans le vieux grenier, des glyphes amazighs anciens. Le Lawh vibre à leur contact. Akli ne veut pas qu'on y touche.","ID, SF",LORE
+126,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Agadir,"Un golem de pisé rouge s'éveille : gardien de la muraille, mémoire du lieu. Il teste Idriss, force contre volonté.","ID, SF",ACTION
+127,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Le Nom de la Muraille,"Idriss inscrit « Agadir ». Le colosse s'incline. Les villageois reculent d'effroi, puis acclament. Akli le regarde différemment.","ID, AG, SF",RÉVÉLATION
+128,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Le Rugissement,"Une statue de lion gravée dans le roc répond à l'encre d'Idriss : Rugissement du Lion, aura de terreur. Les loups hésitent.",ID,ACTION
+129,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,La Nuit des Feux,"Veillée de la dernière nuit : chants, tambours, dattes. Safiya danse. Idriss lui prend la main une seconde.","ID, SF",RESPIRATION
+130,3,LES REMPARTS DE L'ATLAS,3,Les Murs d'Ighrem,Le Cor de Guerre,"À l'aube, le cor retentit. Mais dans le col, une silhouette en costume gris observe : un émissaire du Diwan ?","ID, SF",CLIFF
+131,3,LES REMPARTS DE L'ATLAS,4,La Trahison,La Brèche,"La passe de la montagne, censée être scellée, s'ouvre de l'intérieur. Les loups affluent. Le chaos remplace l'ordre.","SF, ID, YA",ACTION
+132,3,LES REMPARTS DE L'ATLAS,4,La Trahison,Qui a ouvert ?,"Akli accuse les étrangers. Idriss tait sa colère. Safiya défend ses amis, Yanis aussi.","SF, ID, AKL",TENSION
+133,3,LES REMPARTS DE L'ATLAS,4,La Trahison,La Lettre,Fennek trouve une lettre au sceau du Diwan ordonnant de couper les renforts. La signature : Moustapha Doumbia.,"ID, FE, KE",RÉVÉLATION
+134,3,LES REMPARTS DE L'ATLAS,4,La Trahison,La Dernière Muraille,"Repli sur le dernier rempart. Agadir devient la porte. Yaw, Kenza, les villageois tiennent.","ID, AG, YA, KE",ACTION
+135,3,LES REMPARTS DE L'ATLAS,4,La Trahison,Yanis,"Yanis se sacrifie pour sauver des enfants. Safiya hurle, tombe à genoux. Un silence plus fort que tous les cris.","SF, ID",ÉMOTION
+136,3,LES REMPARTS DE L'ATLAS,4,La Trahison,L'Encre de Deuil,"Idriss sent l'encre noircir ; le Lawh note « Encre instable ». Il suit Safiya dans le noir, sans un mot.","ID, SF",ÉMOTION
+137,3,LES REMPARTS DE L'ATLAS,4,La Trahison,Le Lion s'Éveille,Idriss libère le Rugissement du Lion : les loups s'enfuient. Le champ de bataille se vide. Les villageois s'inclinent.,"ID, AM, AG",ACTION
+138,3,LES REMPARTS DE L'ATLAS,4,La Trahison,Ce que le Vent Murmure,"Safiya, sur le rempart, murmure : « Je n'entends plus rien. » Idriss reste près d'elle. Elle pose la tête sur son épaule.","SF, ID",ÉMOTION
+139,3,LES REMPARTS DE L'ATLAS,4,La Trahison,Le Messager,"Boubacar, alerté, ordonne l'enquête. Moustapha nie tout. Il manque une preuve irréfutable.","BS, MD",TENSION
+140,3,LES REMPARTS DE L'ATLAS,4,La Trahison,Les Cendres d'Ighrem,Enterrement de Yanis. Akli s'incline devant Idriss. Un loup mourant parle d'une voix étrangère : « Le Simoun se lève. Nous sommes neuf. »,"ID, SF, AKL",CLIFF
+141,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,La Reconstruction,"Idriss aide à porter des pierres, comme au début. Il redécouvre le sens de son premier métier : porter.","ID, YA, SF",RESPIRATION
+142,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Le Thé de Casablanca,"Baba Salim, dans un café de la médina : « Le plus difficile n'est pas de monter, Idriss. C'est de savoir pourquoi. »","SAL, ID",LORE
+143,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,L'Audience,Audience du Diwan marocain. Moustapha échappe encore. Boubacar : « Le temps jouera pour nous. »,"BS, MD, ID",TENSION
+144,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Le Sceau d'Argent,"Idriss et Yaw sont promus Argent. Cérémonie sobre. Safiya applaudit, Akli salue. Les Lions de Sundiata proposent un poste.","ID, YA, SF",ÉMOTION
+145,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Les Caméras,"Un article de Jamila le surnomme « l'Homme-Sans-Bruit ». À Al-Wagadou, Nour est fière, Mariam pleure de joie, Binta joue de la kora.","MA, NO, BI, JO",ÉMOTION
+146,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Un Appel de Nour,"Au téléphone, Nour exige la vérité. Il promet « bientôt ». Elle répond : « Alors je le saurai avant. »","ID, NO",ÉMOTION
+147,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Kenza et l'Atelier,"Kenza lui offre un bracelet-balise et apprend l'existence des Gardiens. Elle bégaie, puis dessine déjà des plans.","KE, ID",HUMOUR
+148,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Les Quatre,"Dîner d'équipe : Idriss, Safiya, Yaw, Kenza. Ils se baptisent « Équipe Cauri » sous les rires de Yaw.","ID, SF, YA, KE",HUMOUR
+149,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Une Étrange Nouvelle,Séisme au Caire : une colonne d'or perce la ville. Toutes les chaînes d'information diffusent la même image.,"ID, SF, YA, KE",LORE
+150,3,LES REMPARTS DE L'ATLAS,5,Le Sceau d'Argent,Le Minaret,Le Lawh s'affole : « Une Tour de Cent Épreuves s'est éveillée. » Plan large : un minaret doré perce les nuages au-dessus du Caire.,"ID, SF",CLIFF
+151,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Le Caire en Alerte,Arrivée dans une ville paniquée : une aiguille d'or déchire le ciel au-dessus de Khan el-Khalili. Le commandant Nasser Fahmy impose un cordon militaire.,"ID, SF, YA, KE, NF",LORE
+152,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Le Thé du Khan,"Baba Salim, dans un café du Khan : « Tu es en retard. » Il glisse : « Les cent portes sont cent questions. »","SAL, ID",LORE
+153,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Aminata Fall,La linguiste Pr. Aminata Fall déchiffre les hiéroglyphes : la tour est un « Minaret de la Balance ». Elle observe Idriss avec insistance.,"AF, ID, KE",LORE
+154,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Le Mur des Noms,"Au pied de la tour, un mur couvert de noms d'anciens grimpeurs. Un nom a été raturé. Idriss touche la rature : le Lawh réagit.","ID, AF",LORE
+155,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Règles de la Tour,"Aminata expose les règles : une étape tous les dix étages, un temps dilaté, des épreuves de morale autant que de force.","AF, NF, ID",LORE
+156,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Le Conseil des Pays,Les délégations nationales s'affrontent pour le contrôle de la tour. Boubacar tempère. Nasser tranche : « Le Caire donnera le premier pas. »,"BS, NF",TENSION
+157,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,La Foule,"Pèlerins, chasseurs, opportunistes, vendeurs de talismans. Yaw négocie un déjeuner. Safiya garde un œil sur Idriss.","YA, SF, ID",HUMOUR
+158,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Respiration au Nil,"Couchant sur une felouque : Kenza bricole, Yaw chante, Safiya et Idriss se parlent sans parler.","ID, SF, YA, KE",RESPIRATION
+159,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,Le Tirage au Sort,"La tour désigne l'équipe d'ascension : Safiya, Yaw, Kenza, Idriss, deux Égyptiens. Idriss n'est que « soutien ».","ID, SF, YA, KE, NF",TENSION
+160,4,LE MINARET DES CENT ÉPREUVES,1,Le Caire,La Première Porte,"La porte s'ouvre. Une dalle blanche, un couloir infini. Elle se referme derrière eux.","ID, SF, YA, KE",CLIFF
+161,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Étage 1 : Les Dalles,"Salle à dalles piégées. Kenza déduit la séquence, Yaw fait pont de son bouclier. Première victoire d'équipe.","ID, SF, YA, KE",ACTION
+162,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Étage 5 : Les Scarabées,Des scarabées d'or dévorent les armes. Safiya découvre la limite de ses lames. Idriss jette sa jarre-appât.,"ID, SF, YA",ACTION
+163,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Étage 9 : Le Marché des Morts,"Un bazar de fantômes tente chacun : Yaw voit sa mère, Kenza son laboratoire, Safiya Yanis. Idriss reste droit.","ID, SF, YA, KE",ÉMOTION
+164,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Étage 12 : La Salle des Sphinx,"Sept sphinx, comme au Caravansérail. Idriss se fige. Safiya l'enlace par-derrière et lui souffle de respirer.","ID, SF",ÉMOTION
+165,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Le Pas de Côté,Le Lawh révèle un escalier invisible réservé aux Sans-Ligne. Idriss mijote d'y monter pendant que l'équipe dort.,ID,LORE
+166,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,L'Escalier Secret,"Seul, de nuit, il gravit des étages cachés avec Amghar. Les épreuves y sont plus dures. Il remonte avant l'aube.","ID, AM",ACTION
+167,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Étage 20 : Les Vingt Gardes,L'étape officielle de l'équipe. Gardiens-statues. Idriss aide en secret. L'équipe croit à un coup de chance.,"ID, SF, YA, KE",ACTION
+168,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Retour au Camp,Pause à l'extérieur : Safiya remarque qu'Idriss est absent « aux moments clés ». Elle fait mine de ne rien voir.,"SF, ID",TENSION
+169,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,La Guerre du Jollof,Yaw prépare un jollof pour les soldats égyptiens. Débat sur le meilleur riz du monde. Humour.,"YA, NF, KE",HUMOUR
+170,4,LE MINARET DES CENT ÉPREUVES,2,Les Premiers Étages,Ce que Safiya a Vu,"À la veille du second départ, elle le suit en silence et le voit s'engouffrer dans un escalier fantôme.","SF, ID",CLIFF
+171,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,L'Escalier du Sans-Ligne,"Safiya le rejoint. Il lui avoue tout : la plume, le Lawh, les Gardiens. Elle est stupéfaite, puis lui prend la main.","ID, SF, AM",ÉMOTION
+172,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Wepwawet,"Au 26ᵉ étage, un guerrier à tête de chacal garde la salle de la Balance : Wepwawet, Ouvreur des Chemins. Il pèse les cœurs.","WE, ID, SF",LORE
+173,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Le Cœur de Safiya,Son cœur pèse lourd : la perte de Yanis. Wepwawet accorde le passage mais demande qu'elle apprenne à pardonner.,"SF, WE",ÉMOTION
+174,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Le Cœur d'Idriss,Son cœur est lourd de culpabilité. La balance dévoile l'instant où Sidibé tombe : Idriss ne pouvait rien faire. Il pleure.,"ID, WE",ÉMOTION
+175,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Le Verdict,"Wepwawet : « Ton cœur est plus léger que la plume. » Mais pour avancer, il doit être vaincu. Le combat s'engage.","ID, WE, SF",ACTION
+176,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,La Lance de Roseau,Un duel d'esquives et de points d'équilibre. Wepwawet est un juge sévère. Idriss apprend à défaire un jugement.,"ID, WE",ACTION
+177,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Le Nom du Chacal,Idriss inscrit « Wepwawet ». Le juge devient serviteur. Safiya reste émue par les rituels.,"ID, WE, SF",RÉVÉLATION
+178,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Maât ou Mensonge,"Nouvelle compétence : Balance de Maât, détection de mensonge. Idriss l'essaie sur Yaw (il a triché au jollof).","ID, YA",HUMOUR
+179,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,Étage 40,L'équipe officielle et Idriss se retrouvent. Kenza découvre la présence du chacal : « Je veux le démonter. » Wepwawet recule.,"ID, SF, YA, KE, WE",HUMOUR
+180,4,LE MINARET DES CENT ÉPREUVES,3,La Balance de Maât,La Dalle des Montées,"Au 50ᵉ étage, une dalle liste les grimpeurs passés. Le dernier nom, en or : « Moussa Keïta — 74ᵉ étage. »","ID, SF",CLIFF
+181,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Les Étages de la Faim,La tour punit la pitié ; des enfants fantômes mendient du pain. Il faut choisir qui sauver.,"ID, SF, YA, KE",ÉMOTION
+182,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Le Gardien de la Faim,"Un colosse affamé réclame des offrandes. Safiya le tranche, Yaw absorbe, Kenza chronomètre.","SF, YA, KE",ACTION
+183,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Étage 74,"Une plaque de bronze : « Moussa Keïta, Or. Il a refusé la plume. » Idriss tombe à genoux, sa main touche le nom gravé.","ID, SF, MOU",RÉVÉLATION
+184,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Lettre sans Mots,"Dans le mur, une inscription de son père : « Si tu lis ceci, tu as la plume. Ne cherche pas à me sauver. Cherche pourquoi. »",ID,ÉMOTION
+185,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,L'Écharpe,"Il serre l'écharpe indigo, fait le point avec Safiya : colère, tristesse, détermination. Elle l'embrasse sur le front.","ID, SF",ÉMOTION
+186,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Étage 88 : La Source,"Une source d'eau lumineuse gardée par Taouret, déesse hippopotame. Elle ne combat pas : elle juge le soin.","ID, SF, YA",LORE
+187,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,L'Épreuve de Taouret,Il doit porter un petit être blessé jusqu'à la source sans le lâcher. Le Porteur révèle sa force : le soin.,ID,ÉMOTION
+188,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,L'Eau du Nil,"Il reçoit l'Eau du Nil primordial. Fennek, via l'ombre du Lawh, la porte jusqu'à Al-Wagadou. Mariam la boit.","ID, FE, NO, MA",ÉMOTION
+189,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Premier Souffle,La toux disparaît. Mariam respire à pleins poumons. Nour appelle son frère en riant et en pleurant.,"MA, NO, ID",ÉMOTION
+190,4,LE MINARET DES CENT ÉPREUVES,4,Le Fils de Moussa,Le Seuil des Quatre-Vingt-Dix,Une porte scellée au motif du glyphe de Moussa. Le Lawh : « Cette porte ne s'ouvre pas encore. »,"ID, SF",CLIFF
+191,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Étages 91 à 95,"Course finale. Pièges, mensonges, feux croisés. La tour sait qu'on arrive et se défend.","ID, SF, YA, KE",ACTION
+192,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Les Quatre Vents,"La tour sépare l'équipe : Yaw seul face à une horde, Kenza dans une salle de chaleur, Safiya face à un double d'elle-même.","YA, KE, SF",TENSION
+193,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Étage 97,Safiya est frappée à mort. Idriss doit choisir : la sauver ou continuer. Il choisit Safiya.,"ID, SF",ÉMOTION
+194,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Étage 99,Le dernier gardien exige un secret. Idriss avoue qu'il ne sait pas comment finir ce qu'il a commencé. Il passe.,ID,ÉMOTION
+195,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,L'Écharpe d'Or,"Le Lawh tisse un fil d'or dans l'écharpe indigo. Elle réagit aux ordres : bouclier, fouet, voile.",ID,LORE
+196,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Le Pharaon sans Visage,"Au sommet, un souverain au masque d'or sans traits. Il ne parle pas. Il écrit des lois que seul Idriss peut lire.","ID, SF, YA, KE",ACTION
+197,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Le Roi sans Nom,Le Lawh refuse l'inscription : « Ce qui n'a pas de nom ne peut être écrit. » Le Pharaon est une Rature.,ID,LORE
+198,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,La Lame de Maât,"Avec la Balance, il pèse le Pharaon et le déséquilibre. Safiya, Yaw et Kenza attaquent ensemble. Triomphe d'équipe.","ID, SF, YA, KE",ACTION
+199,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,Effondrement,"La tour s'écroule. Wepwawet tient le plafond, Agadir les murs. L'équipe s'enfuit dans un fracas doré.","ID, SF, YA, KE, WE, AG",ACTION
+200,4,LE MINARET DES CENT ÉPREUVES,5,Le Centième Seuil,La Plume de Maât,"Récompense : la Plume de Maât. Niveau 160. Au pied des ruines, Nasser pointe un nuage vert venu du sud : des criquets.","ID, NF",CLIFF
+201,5,LA NUÉE,1,Les Premiers Criquets,Le Nuage Vert,"Au Caire, des images satellites montrent un nuage vivant qui dévore l'Éthiopie. Les chefs d'État appellent à l'aide. Boubacar annonce une coalition africaine.","ID, SF, YA, KE, BS, NF",LORE
+202,5,LA NUÉE,1,Les Premiers Criquets,Addis-Abeba,"Capitale d'altitude, fermes ravagées, files de réfugiés. Idriss croise un enfant qui serre une pelle vide. Il ne l'oubliera pas.","ID, SF, YA",ÉMOTION
+203,5,LA NUÉE,1,Les Premiers Criquets,Jamila sur le Front,"Jamila diffuse en direct, son drone Zouzou tournoie. Elle interroge Safiya, mêle peur et humour. Tout un continent regarde.","JO, SF",HUMOUR
+204,5,LA NUÉE,1,Les Premiers Criquets,La Faim,Premier contact : des hommes-criquets grands comme des hommes dévorent jusqu'au métal. Les Éveillés éthiopiens plient. Idriss affronte sa première vague.,"ID, SF, YA",ACTION
+205,5,LA NUÉE,1,Les Premiers Criquets,Le Café des Hauts Plateaux,"Baba Salim, cérémonie du café en trois tasses (abol, tona, baraka). Il parle d'Abou-Jarad, « le Père de la Nuée », celui qui a faim de tout.","SAL, ID",LORE
+206,5,LA NUÉE,1,Les Premiers Criquets,Les Chiffres,Briefing de la coalition : trois millions de criquets-soldats. Boubacar les rejoint. Kenza propose de nouvelles armes.,"BS, NF, KE, ID",TENSION
+207,5,LA NUÉE,1,Les Premiers Criquets,L'Ordre de Marche,"Trois fronts : Lalibela au nord, Nairobi au centre, Zanzibar à la côte. Idriss affecté au front nord, avec Safiya et Yaw.","ID, SF, YA, BS",LORE
+208,5,LA NUÉE,1,Les Premiers Criquets,Brahim Revient,"Brahim rejoint la Brigade de Pénitence : les suspendus peuvent racheter leur licence. Il se moque d'Idriss, mais ses mains tremblent.","BC, ID, YA",TENSION
+209,5,LA NUÉE,1,Les Premiers Criquets,La Colonne Verte,Attaque nocturne. Brahim se fige. Idriss le sauve discrètement avec Amghar. Brahim ne comprend pas.,"BC, ID, AM",ACTION
+210,5,LA NUÉE,1,Les Premiers Criquets,Les Cloches de Lalibela,La Nuée fonce vers les églises de pierre. Les prêtres sonnent les cloches. L'armée d'Éveillés n'a que quelques heures.,"ID, SF, YA",CLIFF
+211,5,LA NUÉE,2,Lalibela,Les Églises de Pierre,"Lalibela : des églises taillées dans le roc, des prêtres en robes blanches, des pèlerins en prière. Dans l'église en croix, un Sarab s'est ouvert.","ID, SF, YA",LORE
+212,5,LA NUÉE,2,Lalibela,Le Sarab Sacré,"À l'intérieur, un sanctuaire de brume et d'encens. La Nuée a infesté même ce lieu. Le Général-Criquet commande depuis l'autel.","ID, SF, YA",TENSION
+213,5,LA NUÉE,2,Lalibela,Neser,"Un vautour colossal, gardien des hauts plateaux, éprouve la confiance d'Idriss : il faut monter sur son dos et sauter dans le vide. Idriss inscrit « Neser ».","ID, NE",RÉVÉLATION
+214,5,LA NUÉE,2,Lalibela,Brahim contre la Faim,"Brahim se bat pour de bon, rugit. Son armure craque, son courage tient.",BC,ACTION
+215,5,LA NUÉE,2,Lalibela,La Chute,Le Général-Criquet écrase le front. Brahim protège un enfant avec son corps.,"BC, ID",ÉMOTION
+216,5,LA NUÉE,2,Lalibela,Le Bras,Le bras gauche de Brahim est arraché. Idriss le porte jusqu'à l'abri. « Pourquoi tu me sauves ? » — « Parce que je suis un porteur. »,"BC, ID",ÉMOTION
+217,5,LA NUÉE,2,Lalibela,Hôpital de Campagne,"Kenza l'examine et promet un bras-cauri. Brahim pleure en silence. Pour la première fois, il demande un verre d'eau poliment.","KE, BC",RESPIRATION
+218,5,LA NUÉE,2,Lalibela,La Voix de Brahim,Il avoue avoir fui au Caravansérail. Idriss : « Je ne te pardonne pas pour eux. Je te pardonne pour toi. »,"BC, ID",ÉMOTION
+219,5,LA NUÉE,2,Lalibela,Le Pacte des Cavaliers,La cavalerie éthiopienne et les moines-guerriers jurent d'unir leurs forces. Idriss découvre la force du nombre.,"ID, SF, YA, NE",ACTION
+220,5,LA NUÉE,2,Lalibela,Les Vols de Neser,"Neser les emporte vers Nairobi. Dans le ciel, une voix immense retentit sur la Nuée : « Je viens de la faim. »","ID, SF, YA, NE",CLIFF
+221,5,LA NUÉE,3,Nairobi Tient,Nairobi,"Tranchées, souks fortifiés, guerriers maasaï chantant aux créneaux. La ville est prête mais exsangue.","ID, SF, YA, KE",LORE
+222,5,LA NUÉE,3,Nairobi Tient,Les Lignes,"Boubacar montre le Poing de Basalte : un coup, un mur de gravité. Les rangs d'Éveillés regardent un Soleil au travail.","BS, ID",ACTION
+223,5,LA NUÉE,3,Nairobi Tient,La Nuit des Torches,Combat en ligne de torches : l'humanité contre la faim. Safiya éclaire la bataille de ses lames.,"SF, YA, ID",ACTION
+224,5,LA NUÉE,3,Nairobi Tient,Kenza et les Bras-Cauris,"Brahim reçoit son bras mécanique en cuivre. Il cogne un mur, ravi et gêné. Kenza lève les yeux au ciel.","KE, BC",HUMOUR
+225,5,LA NUÉE,3,Nairobi Tient,Le Général-Criquet,"Un général au corps d'obsidienne conduit l'assaut, tenant tête à Boubacar. Il reconnaît l'encre d'Idriss et recule.","ID, BS",ACTION
+226,5,LA NUÉE,3,Nairobi Tient,Les Gardiens Sortent,"Dans l'obscurité, Idriss déploie Amghar, Agadir, Wepwawet, Fennek et Neser sur le flanc. Les soldats croient à des spectres.","ID, AM, AG, WE, FE, NE",ACTION
+227,5,LA NUÉE,3,Nairobi Tient,Le Prix d'une Ville,"Les pertes s'accumulent. Yaw tient la porte nord, couvert de sang, riant pour que les autres tiennent.","YA, SF",ÉMOTION
+228,5,LA NUÉE,3,Nairobi Tient,Chai et Mandazi,"Au sommet d'un toit, Safiya et Idriss partagent un chai. Elle : « Je ne veux pas que tu y ailles seul. » Il ne répond pas.","SF, ID",RESPIRATION
+229,5,LA NUÉE,3,Nairobi Tient,La Fissure,La Nuée perce la ligne sud. Boubacar ordonne de tenir. Idriss est contraint d'utiliser sa vraie puissance devant des témoins.,"BS, ID, SF",TENSION
+230,5,LA NUÉE,3,Nairobi Tient,La Retraite vers la Mer,"La Nuée se replie vers Zanzibar. Boubacar : « Il nous appelle. » Une île, un roi, un banquet.","BS, ID, SF",CLIFF
+231,5,LA NUÉE,4,Zanzibar,La Traversée du Détroit,"Boutres et navires de guerre. Neser patrouille. Dans l'eau, les premières vagues de criquets nagent.","ID, SF, YA, NE",ACTION
+232,5,LA NUÉE,4,Zanzibar,Stone Town,"Ruelles de pierre de corail, portes sculptées, odeur d'épices. Les défenseurs se préparent.","ID, SF, YA",RESPIRATION
+233,5,LA NUÉE,4,Zanzibar,Les Tambours,Les tambours swahilis résonnent. Les enfants chantent. Les familles refusent de partir.,"ID, SF",ÉMOTION
+234,5,LA NUÉE,4,Zanzibar,Le Roi Paraît,"La mer de criquets s'élève en une silhouette : Abou-Jarad, vert et or, aux ailes de cape, aux mille yeux.","AJ, ID",RÉVÉLATION
+235,5,LA NUÉE,4,Zanzibar,Le Trône de la Faim,Il salue « le Calame-Porteur » et propose de se retirer s'il lui donne la plume. Idriss : « Je n'écris pas pour les affamés. »,"AJ, ID",TENSION
+236,5,LA NUÉE,4,Zanzibar,Les Mille Plumes,"Idriss déploie le Domaine des Mille Plumes : sol noir, glyphes d'or. Les caméras de Jamila en direct. Le monde le voit.","ID, JO",ACTION
+237,5,LA NUÉE,4,Zanzibar,L'Armée d'Encre,"Ses Gardiens affrontent la Nuée. Safiya à ses côtés. Les spectateurs, hypnotisés, comprennent qu'ils regardent un nouveau monde.","ID, SF, AM, AG, WE, FE, NE",ACTION
+238,5,LA NUÉE,4,Zanzibar,Le Cœur de Boubacar,Boubacar affronte les lieutenants du Roi. Un Soleil au sommet de sa gloire.,BS,ACTION
+239,5,LA NUÉE,4,Zanzibar,Un Contre Mille,Idriss et Abou-Jarad s'affrontent. Le Roi dévore l'encre d'Idriss.,"ID, AJ",ACTION
+240,5,LA NUÉE,4,Zanzibar,L'Appétit du Roi,Abou-Jarad avale une partie du Domaine. Idriss est blessé. Le Lawh : « Encre : 12 %. »,"ID, AJ",CLIFF
+241,5,LA NUÉE,5,Le Nom du Roi,Le Rugissement,"Idriss rugit ; la Nuée s'immobilise, interdite. Il se redresse, saignant. Safiya le soutient sans un mot.","ID, SF",ACTION
+242,5,LA NUÉE,5,Le Nom du Roi,La Faim du Roi,"Un éclair de mémoire : Abou-Jarad fut un enfant d'une famine ancienne, ramassé par les Trônes. Il n'a jamais mangé à sa faim.","AJ, ID",ÉMOTION
+243,5,LA NUÉE,5,Le Nom du Roi,Pitié ?,Idriss hésite. Le Lawh : « Un nom peut être inscrit. » Le Roi sourit : « Tu n'oserais pas. »,"ID, AJ",TENSION
+244,5,LA NUÉE,5,Le Nom du Roi,La Chute du Roi,"La Lame d'Encre traverse le Roi de part en part. Il tombe, ses ailes tombent comme des cendres.","ID, AJ",ACTION
+245,5,LA NUÉE,5,Le Nom du Roi,Le Soleil Levant,Le Diwan mesure la Pierre-Cauri : blanc-or aveuglant. Idriss est proclamé Soleil. Le monde regarde Jamila en direct.,"ID, BS, JO",ÉMOTION
+246,5,LA NUÉE,5,Le Nom du Roi,Inscrire un Roi,"Il tente d'inscrire Abou-Jarad : le Nom brûle. Le Lawh : « Un Trône ne se lie que s'il consent. » Le Roi refuse, meurt.","ID, AJ",RÉVÉLATION
+247,5,LA NUÉE,5,Le Nom du Roi,Le Général,Le Général-Criquet s'agenouille devant Idriss : « Je veux porter la faim de mon roi. » Étonnement général.,"ID, SF",TENSION
+248,5,LA NUÉE,5,Le Nom du Roi,Cendres et Sel,Funérailles collectives des victimes. Boubacar prie. Yaw chante un hymne ghanéen. Safiya pleure Yanis en silence.,"BS, YA, SF, ID",ÉMOTION
+249,5,LA NUÉE,5,Le Nom du Roi,Jarad,"Idriss lui donne un nom : « Jarad ». Inscription. Son exosquelette devient indigo-noir, ses yeux d'or. Le premier ennemi devenu Gardien.","ID, JA",RÉVÉLATION
+250,5,LA NUÉE,5,Le Nom du Roi,Ce n'était que la Première Plume,"Baba Salim, sur la plage : « Il en reste huit. » Le Lawh : « Livre V clos. » Le monde entier a vu.","SAL, ID",CLIFF
+251,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Le Défilé,"Parade triomphale à Al-Wagadou. Idriss, gêné, salue d'un geste sec. À un balcon, Mariam, Nour et Binta jubilent. Il cherche l'ombre.","ID, MA, NO, BI, YA, SF",ÉMOTION
+252,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Le Dîner de Gloire,"Les Keïta invitent Boubacar à dîner. Mariam cuisine, Binta chante, Moustapha est de la partie, sourire fin, regard froid.","ID, MA, NO, BI, BS, MD",TENSION
+253,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,La Lumière de Nour,"Dans la nuit, la paume gauche de Nour émet une lueur argent-bleu pendant qu'elle révise. Elle la cache sous un oreiller.",NO,RÉVÉLATION
+254,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Nour Éveillée,"Idriss la surprend. Il lui avoue tout. Elle rit, pleure : « J'ai cru deux ans que je devenais folle. »","ID, NO",ÉMOTION
+255,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Le Test,"Au Diwan, la Pierre-Cauri reste claire comme de l'eau entre les mains de Nour. Boubacar fronce les sourcils. Idriss improvise : « Panne ».","NO, ID, BS",TENSION
+256,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Le Professeur,Aminata Fall compare le glyphe de Nour à une écriture antérieure au Kâtib. « Votre sœur n'est pas une Éveillée comme les autres. »,"AF, NO, ID",LORE
+257,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Les Honneurs,L'Union lui remet une médaille. Moustapha sourit. Jamila remarque qu'il transpire. Idriss regarde ses mains : elles ne tremblent pas.,"ID, MD, JO",TENSION
+258,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,La Fête du Fleuve,"Régates de pirogues, tambours, beignets. Yaw perd gloire et pantalon. Safiya tente la danse locale. Fou rire général.","YA, SF, ID, KE",HUMOUR
+259,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Une Pirogue dans la Nuit,"Binta emmène Idriss sur le fleuve : « Viens, il est temps. » Étoiles, eaux noires, silence.","BI, ID",ÉMOTION
+260,6,LE SERPENT DE BIDA,1,Le Retour au Fleuve,Le Rendez-vous de la Vieille,"« Ce soir, je te dirai ce que ton père m'a demandé de taire. » La kora se pose. La lune s'arrête.","BI, ID",CLIFF
+261,6,LE SERPENT DE BIDA,2,La Griotte,La Case de Yaye,"La vieille case de griotte : kora, cauris, livres de noms. Idriss comprend d'où vient le « registre » de sa grand-mère.","BI, ID",LORE
+262,6,LE SERPENT DE BIDA,2,La Griotte,Il Était une Fois le Wagadou,La légende du Wagadou et de ses quatre portes d'or. Un serpent noir protège la cité en échange d'une offrande. Il s'appelle Bida.,"BI, ID",LORE
+263,6,LE SERPENT DE BIDA,2,La Griotte,Le Pacte de Bida,"Le pacte brisé par un jeune héros, la sécheresse qui s'ensuit. Binta : « Un dieu qu'on tue n'est qu'un dieu qu'on enferme. »","BI, ID",LORE
+264,6,LE SERPENT DE BIDA,2,La Griotte,Le Premier Scribe,"La légende du Kâtib qui écrivit le monde, puis disparut. Idriss reconnaît le geste de la main qui écrit.","BI, ID",LORE
+265,6,LE SERPENT DE BIDA,2,La Griotte,Les Sans-Ligne,"Ceux dont le nom n'est pas écrit : cinq, avant lui, tous disparus. Ils ont porté la plume ou l'ont refusée.","BI, ID",RÉVÉLATION
+266,6,LE SERPENT DE BIDA,2,La Griotte,Le Fils du Mandé,Moussa est venu la voir la veille de sa disparition. Il avait refusé la plume pour protéger sa famille. Il entrait dans le Ghayb pour négocier.,"BI, ID, MOU",RÉVÉLATION
+267,6,LE SERPENT DE BIDA,2,La Griotte,La Kora des Noms,"Elle joue le Chant des Noms : mille noms de défunts. Au milieu, Idriss entend le nom de son père, prononcé comme une prière.","BI, ID",ÉMOTION
+268,6,LE SERPENT DE BIDA,2,La Griotte,L'Héritage,Elle détache un cauri de sa kora et le lui glisse dans la paume : « Pour qu'on te retrouve. »,"BI, ID",ÉMOTION
+269,6,LE SERPENT DE BIDA,2,La Griotte,Le Secret de Nour,Binta murmure : « Il y a deux plumes. Toi tu es le Calame. Elle est la Page. » Elle refuse d'en dire plus.,"BI, ID",RÉVÉLATION
+270,6,LE SERPENT DE BIDA,2,La Griotte,Qui a écrit ton nom ?,"Elle lui pose la question du sphinx. Il répond : « Moi, avec ceux qui m'aiment. » Elle sourit : « Alors chante-le. » Au matin, le Niger a baissé d'un mètre.","BI, ID",CLIFF
+271,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Le Niger Baisse,"Poissons échoués, pirogues sur le flanc, rives craquelées. La ville murmure.","ID, YA, NO",TENSION
+272,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Les Pêcheurs,Des pêcheurs racontent avoir vu des écailles noires au fond. Les anciens chuchotent « Bida ».,"ID, YA",LORE
+273,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Le Poids de la Terre,Séismes en sourdine. Kenza installe des capteurs : une masse gigantesque bouge sous le lit.,"KE, ID, NO",TENSION
+274,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,L'Enquête de Jamila,Jamila exhume des contrats : Moustapha finance depuis deux ans des fouilles sur le méandre du fleuve. Elle apporte les preuves à Boubacar.,"JO, BS",RÉVÉLATION
+275,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Le Mur de la Digue,Des plongeurs découvrent une digue de pierre scellée de glyphes : le sceau de la prison de Bida.,"ID, SF, KE",LORE
+276,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Moustapha Démasqué,"Devant les caméras, Moustapha se dévoile : il sert les Trônes depuis des années. Boubacar l'arrête… trop tard.","MD, BS, JO",RÉVÉLATION
+277,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,La Chute de la Digue,Il déclenche un mécanisme : la digue craque. Un grondement monte du fleuve.,"MD, ID",ACTION
+278,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,L'Évacuation,"Nour coordonne les secours, Boubacar organise les quartiers. Idriss contient les débris.","NO, BS, ID",ACTION
+279,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Les Bateaux de Pierre,"Yaw soulève un pont brisé, Kenza lance des barges. Des milliers de vies sauvées de justesse.","YA, KE",ACTION
+280,6,LE SERPENT DE BIDA,3,Le Fleuve se Retire,Le Réveil de Bida,"Le Niger se soulève : un serpent de cent mètres, noir, aux yeux blancs, jaillit. Splash sur toute la page.","BID, ID",CLIFF
+281,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Le Fleuve Furieux,"Le fleuve revient d'un coup, mur d'eau noire. Les quais sont balayés. Idriss, debout sur un toit, appelle ses Gardiens.","ID, AM, AG",ACTION
+282,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Le Serpent,Bida frappe le quartier du port. Les Gardiens tiennent à peine. Le Lawh : « Rature détectée. »,"BID, ID",ACTION
+283,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Les Gardiens Contre le Dieu,"Agadir fait rempart, Neser harcèle, Jarad tranche. Amghar tient la tête du serpent.","ID, AG, NE, JA, AM",ACTION
+284,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Mort d'un Traître,"Moustapha, fuyant en voiture, est écrasé par une spire de Bida. Une fin sans gloire.","MD, BID",ACTION
+285,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Les Enfants de l'École,"L'école du quartier s'effondre. Binta, sur place pour une leçon de chant, protège les enfants de son corps.",BI,TENSION
+286,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,La Kora sous la Pluie,"Dans le fracas, elle joue. Les enfants chantent avec elle. La voix de la griotte monte comme une lueur.",BI,ÉMOTION
+287,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Le Chant Arrête le Dieu,"Bida s'immobilise, écoute. Dans ses yeux blancs, quelque chose se souvient. Tout le champ de bataille se fige.","BI, BID, ID",ÉMOTION
+288,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Le Coup,Une voix venue de loin murmure : « Mange. » Bida se rue en avant. Binta ouvre les bras.,"BI, BID",ACTION
+289,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Binta,Elle est frappée. Les enfants sont saufs. Idriss accourt à travers les décombres.,"BI, ID",ÉMOTION
+290,6,LE SERPENT DE BIDA,4,La Bataille du Fleuve,Le Dernier Chant,Elle meurt dans ses bras en chantant : « Qui a écrit ton nom ? » Les cordes de la kora se mettent à briller.,"BI, ID",CLIFF
+291,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Rage d'Encre,"L'encre d'Idriss tourne au noir. Le Domaine s'étend sans retenue. Les Gardiens reculent, effrayés. Nour crie son prénom.","ID, NO",ACTION
+292,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Le Serpent Pleure,"Bida, prisonnier du Domaine, pleure des larmes noires. Il ne sait plus qui il est.","BID, ID",ÉMOTION
+293,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Nour et le Chant,Nour reprend le chant de sa grand-mère. Son encre argent-bleu se mêle à l'or d'Idriss et apaise la tempête.,"NO, ID",ÉMOTION
+294,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Le Thé du Deuil,"Baba Salim, au cimetière : « Le troisième verre est pour les absents. » Il laisse un verre plein sur la tombe.","SAL, ID",ÉMOTION
+295,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Les Funérailles de Binta,Des griots de tout le Sahel jouent. La ville en deuil défile. Safiya tient la main de Nour.,"ID, NO, MA, SF, YA",ÉMOTION
+296,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Nom et Mémoire,"Idriss décide d'inscrire Bida, mais demande son consentement. Le Lawh : « Une Rature peut consentir. »","ID, BID",LORE
+297,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Dieli,"De la kora de Binta s'élève un esprit-griot au masque de cauris : Dieli, l'écho de tous les griots. Compétence : Chant des Noms.","ID, DI",RÉVÉLATION
+298,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Le Pacte du Fleuve,"Bida accepte de garder le fleuve, sans suivre Idriss. Il retrouve un sens : protéger.","ID, BID",ÉMOTION
+299,6,LE SERPENT DE BIDA,5,Le Chant des Noms,Bida Inscrit,"Inscription. Bida s'enroule autour de la ville et s'enfonce dans le Niger. L'eau revient, claire.","ID, BID",RÉVÉLATION
+300,6,LE SERPENT DE BIDA,5,Le Chant des Noms,La Page Déchirée,"Dans le Lawh, une page se déchire seule. Un mot s'affiche : « Bientôt ». Idriss regarde son père dans un reflet d'eau.",ID,CLIFF
+301,7,MAMI WATA,1,Lagos Engloutie,Lagos,"Mégalopole bruyante : danfos jaunes, marchés, générateurs. Jamila les accueille chez elle. Un Sarab, « La Lagune », a fait disparaître un quartier.","ID, SF, YA, JO",LORE
+302,7,MAMI WATA,1,Lagos Engloutie,Chez Jamila,La famille de Jamila les nourrit. Duel de jollof entre Yaw et la mère de Jamila. Yaw perd avec honneur.,"JO, YA, SF",HUMOUR
+303,7,MAMI WATA,1,Lagos Engloutie,Le Quartier Sous les Eaux,Un quartier lacustre s'est englouti en une nuit. Des habitants appellent de sous la surface. Idriss plonge.,"ID, SF",ACTION
+304,7,MAMI WATA,1,Lagos Engloutie,La Lagune des Esprits,"À l'intérieur du Sarab, un monde marin sans fond : maisons en corail, marchés suspendus, bancs de poissons-lanternes.","ID, SF, FE",LORE
+305,7,MAMI WATA,1,Lagos Engloutie,Les Masques,"Des esprits d'ancêtres en costumes de raphia (masques) les guident. Ils parlent par chants, pas par mots.","ID, SF, JO",LORE
+306,7,MAMI WATA,1,Lagos Engloutie,Le Marché Englouti,"Un marché fantôme où l'on vend des souvenirs. Fennek est tenté, Idriss le retient.","ID, FE",TENSION
+307,7,MAMI WATA,1,Lagos Engloutie,Le Mal sans Nom,"Les premiers malades : yeux rouges, peau craquelée, fièvre incontrôlable. Les médecins sont dépassés.","NO, ID, SF",TENSION
+308,7,MAMI WATA,1,Lagos Engloutie,Nour Soigne,"Nour, venue en renfort avec Aminata, pose les mains sur un enfant : la fièvre recule. Sa lueur argent-bleu éclaire la salle.","NO, AF",ÉMOTION
+309,7,MAMI WATA,1,Lagos Engloutie,Jollof et Amala,Respiration : Yaw découvre l'amala-ewedu et change d'avis sur le « meilleur plat du monde ». Rire et répit.,"YA, JO, SF",HUMOUR
+310,7,MAMI WATA,1,Lagos Engloutie,La Mouche Rouge,Un essaim de moustiques rouges perce la lagune. Chaque piqûre porte la fièvre. Une silhouette voilée de rouge les observe.,"ID, SF, NO",CLIFF
+311,7,MAMI WATA,2,Les Mino,Cotonou,"Les Masques désignent le nord : au Dahomey, les Amazones Mino sauront traquer la fièvre. Voyage en minibus, humour et musique.","ID, SF, YA, JO",RESPIRATION
+312,7,MAMI WATA,2,Les Mino,Les Amazones,"Un camp de guerrières vêtues de rouge et blanc. Leur générale, Adjoké Hounsou, crâne rasé, machette gbo à la main, les évalue d'un regard.","AH, ID, SF",LORE
+313,7,MAMI WATA,2,Les Mino,L'Épreuve des Lances,"Pour gagner leur confiance, Safiya et Yaw affrontent les Mino. Safiya y gagne le respect. Yaw reçoit une leçon d'humilité.","AH, SF, YA",ACTION
+314,7,MAMI WATA,2,Les Mino,Le Conseil de Guerre,Adjoké accepte l'alliance contre la Fièvre. Elle exige un serment de sang symbolique : une goutte d'encre.,"AH, ID",TENSION
+315,7,MAMI WATA,2,Les Mino,Le Tambour de Guerre,Les tambours Mino réveillent la forêt. Les esprits se retirent. La nuit tombe sur le camp.,"AH, ID, SF",LORE
+316,7,MAMI WATA,2,Les Mino,La Forêt Sacrée,Traque de la source de l'épidémie. Les arbres murmurent. Adjoké confie qu'elle a perdu une fille de la fièvre.,"AH, ID, SF",ÉMOTION
+317,7,MAMI WATA,2,Les Mino,L'Homme-Mouche,"Un lieutenant d'Oum-Humma, grand corps couvert de mouches, apparaît. Il propose un marché : la fin de la souffrance.","ID, AH, SF",ACTION
+318,7,MAMI WATA,2,Les Mino,La Danse,"Après la victoire, fête Mino. Safiya et Idriss dansent un moment, souffle court. Ils ne se disent rien.","SF, ID, AH",RESPIRATION
+319,7,MAMI WATA,2,Les Mino,La Cicatrice d'Adjoké,"Adjoké raconte l'histoire de sa cicatrice : un combat contre une maladie, pas contre un homme. Mino et Éveillés s'unissent.","AH, ID",ÉMOTION
+320,7,MAMI WATA,2,Les Mino,Le Palais Rouge,"Dans un mirage, un palais de voiles rouges apparaît. Au centre, un trône. Une femme y sourit : Oum-Humma.","ID, SF, AH",CLIFF
+321,7,MAMI WATA,3,La Fièvre Rouge,Oum-Humma,"Elle parle : « Je ne veux pas tuer, je veux que plus personne ne souffre. » Sa voix est douce, sa promesse terrible.","OH, ID",RÉVÉLATION
+322,7,MAMI WATA,3,La Fièvre Rouge,Quarantaine,Lagos est scellée. Les malades se comptent par milliers. Nour improvise un hôpital dans un stade.,"NO, JO, ID",TENSION
+323,7,MAMI WATA,3,La Fièvre Rouge,Fennek Malade,"Fennek est infecté. Sa fumée se ternit. Idriss panique, Nour tente un soin sur un Gardien, une première.","ID, FE, NO",ÉMOTION
+324,7,MAMI WATA,3,La Fièvre Rouge,Nour Guérisseuse,"Nour sauve des centaines de malades en une nuit, s'épuise. Idriss la regarde, bouleversé de la voir si forte.","NO, ID",ÉMOTION
+325,7,MAMI WATA,3,La Fièvre Rouge,Le Choix du Médecin,"Nour doit choisir qui soigner avec ses forces limitées. Elle choisit un enfant puis un vieillard, déchirée.",NO,ÉMOTION
+326,7,MAMI WATA,3,La Fièvre Rouge,Le Dilemme,"Oum-Humma offre un marché : sacrifier mille malades pour sauver un million. Le piège est moral, pas militaire.","ID, OH, NO",TENSION
+327,7,MAMI WATA,3,La Fièvre Rouge,La Nuit du Feu,"Dans un moment de panique, Idriss envisage de brûler un quartier contaminé. Nour se place devant lui.","ID, NO",TENSION
+328,7,MAMI WATA,3,La Fièvre Rouge,La Voix de Nour,Elle lui reproche de vouloir tout porter seul : « Tu ne sauveras personne si tu oublies que nous sommes là. » Il baisse les yeux.,"NO, ID",ÉMOTION
+329,7,MAMI WATA,3,La Fièvre Rouge,Une Piste,"Un Masque révèle que le remède est au fond de la lagune, dans un palais appartenant à Mami, la Maîtresse des Eaux.","ID, SF, JO",LORE
+330,7,MAMI WATA,3,La Fièvre Rouge,Plongée,"Idriss, Safiya et Fennek plongent dans les ténèbres. L'eau est froide, l'air manque, le palais surgit.","ID, SF, FE",CLIFF
+331,7,MAMI WATA,4,Le Palais Englouti,Sous la Lagune,"Descente infinie dans une eau chargée de souvenirs. Visions de la vie de Binta, du père, de l'enfance.","ID, SF",LORE
+332,7,MAMI WATA,4,Le Palais Englouti,Le Palais de Corail,"Un palais de nacre et de corail, peuplé de poissons lumineux. Pas un bruit. Mami les observe depuis un trône d'écume.","ID, SF, MW",LORE
+333,7,MAMI WATA,4,Le Palais Englouti,Mami,"Mami, femme-esprit aux locks mouillées, python sur les épaules, miroir à la main. Elle exige un prix : une histoire vraie.","MW, ID, SF",TENSION
+334,7,MAMI WATA,4,Le Palais Englouti,Le Miroir,Le miroir de Mami montre à Idriss l'avenir qu'il redoute : le monde sans souffrance d'Oum-Humma est un monde sans choix.,"MW, ID",RÉVÉLATION
+335,7,MAMI WATA,4,Le Palais Englouti,Le Peigne,Mami demande à Safiya de la coiffer en échange d'une réponse. Safiya parle de Yanis en peignant. Mami pleure.,"MW, SF",ÉMOTION
+336,7,MAMI WATA,4,Le Palais Englouti,Le Nom de Mami,"Idriss inscrit « Mami », avec son consentement. Splash : la déesse des eaux sous forme de fumée bleu-indigo et d'or.","ID, MW",RÉVÉLATION
+337,7,MAMI WATA,4,Le Palais Englouti,L'Eau-Mémoire,Nouvelle compétence : Eau-Mémoire. Fennek guérit instantanément. Idriss revoit un souvenir de son père dans l'eau.,"ID, FE, MW",ÉMOTION
+338,7,MAMI WATA,4,Le Palais Englouti,Ce que dit le Cœur,"Sur une barque, au couchant, Safiya avoue ses sentiments : « Je n'ai pas peur de ta force. J'ai peur de te perdre. »","SF, ID",ÉMOTION
+339,7,MAMI WATA,4,Le Palais Englouti,Un Baiser Salé,Ils s'embrassent. Mami détourne ostensiblement le regard avec un sourire. Fennek chante faux.,"SF, ID, MW, FE",HUMOUR
+340,7,MAMI WATA,4,Le Palais Englouti,La Remontée,"Ils remontent avec le remède. À la surface, un voile rouge les attend, Oum-Humma debout sur l'eau.","ID, SF, MW, FE, OH",CLIFF
+341,7,MAMI WATA,5,La Mère de la Fièvre,Le Combat de la Peste,Oum-Humma lance une brume rouge sur la ville. Tout le monde s'effondre. Idriss résiste grâce à l'Eau-Mémoire.,"OH, ID",ACTION
+342,7,MAMI WATA,5,La Mère de la Fièvre,Fièvre contre Eau,"Mami contre Oum-Humma, deux forces opposées. Le ciel devient rouge et bleu.","MW, OH",ACTION
+343,7,MAMI WATA,5,La Mère de la Fièvre,Quatre Gardiens,"Amghar, Agadir, Wepwawet et Jarad protègent le stade. Dieli joue, Nour chante, les malades se lèvent.","AM, AG, WE, JA, DI, NO",ACTION
+344,7,MAMI WATA,5,La Mère de la Fièvre,Le Piège d'Oum-Humma,"Elle souffle sur Idriss : il est contaminé. Sa peau craquelle, son encre vire au noir.","OH, ID",TENSION
+345,7,MAMI WATA,5,La Mère de la Fièvre,Le Cauri,"Safiya presse un cauri dans sa main : « Reviens. » Il le serre contre sa poitrine. Souvenir de Binta, de son père.","SF, ID",ÉMOTION
+346,7,MAMI WATA,5,La Mère de la Fièvre,Le Dernier Souffle de la Fièvre,Nour lance une onde argent-bleu qui purifie la ville. La brume se désagrège.,"NO, ID",ACTION
+347,7,MAMI WATA,5,La Mère de la Fièvre,La Mort d'Oum-Humma,Idriss lui plante la Lame d'Encre dans le cœur. Elle sourit en tombant : « Tu me ressembleras bientôt. »,"ID, OH",ÉMOTION
+348,7,MAMI WATA,5,La Mère de la Fièvre,Graines Noires,"Dans ses veines, des filaments noirs : l'Encre Noire. Le Lawh l'avertit, avec une note presque tendre.",ID,RÉVÉLATION
+349,7,MAMI WATA,5,La Mère de la Fièvre,La Ville Guérie,"Lagos retrouve le soleil. Les Mino chantent, les Masques dansent. Jamila publie : « Ils nous ont sauvés. »","JO, AH, YA",ÉMOTION
+350,7,MAMI WATA,5,La Mère de la Fièvre,Le Reflet,"Penché sur l'eau de la lagune, Idriss voit son père de dos, qui marche dans l'eau, puis se retourne. Le visage est flou.","ID, MOU",CLIFF
+351,8,L'OR MAUDIT,1,Johannesburg,La Ville de l'Or,"Johannesburg : gratte-ciel, mines profondes, quartiers pauvres face aux tours dorées. Les Sarabs s'ouvrent dans les galeries. Un monde de contrastes.","ID, SF, YA, KE",LORE
+352,8,L'OR MAUDIT,1,Johannesburg,Les Mineurs,"Des mineurs des Sarabs-mines, souvent des enfants. Yaw serre les poings. Idriss revoit l'entrepôt 9.","ID, YA",TENSION
+353,8,L'OR MAUDIT,1,Johannesburg,Hamidou Revient,"Hamidou Diop, ruiné, vit de petits trafics. Il implore l'aide d'Idriss : « Je ne savais pas ce que je faisais. »","ID, HD",TENSION
+354,8,L'OR MAUDIT,1,Johannesburg,La Guilde de l'Or,"La Guilde Aurifère contrôle les mines. Son chef, Mpho Radebe, sourit trop. Ses hommes portent des bagues d'or marquées.","ID, SF, HD",TENSION
+355,8,L'OR MAUDIT,1,Johannesburg,Le Thé de Soweto,"Baba Salim, dans un shebeen : « L'or est un miroir, Idriss : il montre ce qu'on veut y voir. » Il paie en sucre, pas en or.","SAL, ID",LORE
+356,8,L'OR MAUDIT,1,Johannesburg,L'Accident,"Un éboulement piège deux cents mineurs. Idriss, Yaw et Kenza descendent les secourir. L'obscurité s'étend.","ID, YA, KE",ACTION
+357,8,L'OR MAUDIT,1,Johannesburg,Les Enfants de la Mine,Ils retrouvent des enfants survivants. Un petit garçon chante pour garder les autres calmes. Idriss pense à Nour.,"ID, YA, KE",ÉMOTION
+358,8,L'OR MAUDIT,1,Johannesburg,Braai,"Respiration : braai sur le toit d'un immeuble. Safiya, Idriss, Yaw, Kenza. Humour, tendresse, absence de Binta.","ID, SF, YA, KE",RESPIRATION
+359,8,L'OR MAUDIT,1,Johannesburg,La Piste du Grand Zimbabwe,"Fennek renifle une odeur d'or pur : la source de la corruption se trouve plus au nord, dans les ruines du Grand Zimbabwe.","ID, FE, SF",LORE
+360,8,L'OR MAUDIT,1,Johannesburg,Le Départ,"Au moment de partir, un énorme coffre d'or est livré à leur hôtel, accompagné d'un mot : « Bienvenue chez moi. »","ID, SF, YA, KE",CLIFF
+361,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Grand Zimbabwe,"Les ruines de pierre sèche, les murs ronds, les tours. Le soleil tombe sur les pierres, la savane s'étend.","ID, SF, YA",LORE
+362,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Tendai Moyo,Un sculpteur-chasseur aux locks poussiéreuses les accueille. Il écoute les pierres comme d'autres écoutent les gens.,"TM, ID",LORE
+363,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Les Oiseaux de Pierre,"Les oiseaux sculptés s'éveillent, vivants et hostiles. Tendai les calme en chantant. Ils reconnaissent l'encre d'Idriss.","TM, ID, SF",ACTION
+364,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Le Mur qui Chante,"Un mur d'enceinte vibre d'un chant ancien. Nour, en visioconférence, dit qu'elle peut l'entendre.","TM, ID, NO",LORE
+365,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Les Anciens Maçons,Tendai raconte l'histoire des bâtisseurs qui chantaient la pierre. Dhahab les a corrompus avec de l'or.,"TM, ID",LORE
+366,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,La Mine de Dhahab,"Sous les ruines, un Sarab : une ville d'or, avenues de lingots, maisons de pièces. Un rêve de richesse.","ID, SF, YA, TM",LORE
+367,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Le Gardien Doré,Un colosse d'or protège l'entrée. Tendai le sculpte pour le désarmer. Yaw l'achève.,"TM, YA, ID",ACTION
+368,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Sculpter l'Écoute,Respiration : Tendai enseigne à Nour à écouter la pierre. Elle comprend le chant des fondations.,"TM, NO",RESPIRATION
+369,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,L'Invitation,Un valet doré leur remet un parchemin : « Dhahab vous attend pour dîner. » Il sourit sans yeux.,"ID, SF, YA, TM",TENSION
+370,8,L'OR MAUDIT,2,Les Oiseaux de Pierre,Le Palais d'Or,"Les portes d'or du palais s'ouvrent. Au fond, sur un trône de pièces, un homme en or liquide les accueille.","ID, SF, YA, DH",CLIFF
+371,8,L'OR MAUDIT,3,Le Veau d'Or,Dhahab,"Il offre un festin. Il parle avec douceur, connaît chacun par son nom. Il ne menace pas : il propose.","DH, ID, SF, YA",TENSION
+372,8,L'OR MAUDIT,3,Le Veau d'Or,L'Offre,"Dhahab offre à Idriss : réécrire le passé, ressusciter Binta, guérir son père. Il lui suffirait de lui céder le Calame.","DH, ID",TENSION
+373,8,L'OR MAUDIT,3,Le Veau d'Or,Le Mirage de Binta,"Binta apparaît dans le palais, vivante, chantant. Idriss s'effondre. Safiya hurle : « C'est faux ! » Il ne l'entend plus.","DH, ID, BI, SF",ÉMOTION
+374,8,L'OR MAUDIT,3,Le Veau d'Or,Encre Noire,"Il refuse… en apparence. Dans la rage, son encre devient noire, plus violente, plus rapide. Nouvelle compétence : Encre Noire.",ID,ACTION
+375,8,L'OR MAUDIT,3,Le Veau d'Or,Première Corruption,Il tue des gardes d'or humains sans hésiter. Le sang de la colère. Le Lawh : « Encre : 91 % corrompue. »,"ID, SF",TENSION
+376,8,L'OR MAUDIT,3,Le Veau d'Or,Les Gardiens Reculent,Fennek tremble. Amghar baisse la tête. Les Gardiens ne reconnaissent plus leur maître.,"ID, FE, AM",ÉMOTION
+377,8,L'OR MAUDIT,3,Le Veau d'Or,Le Reproche de Safiya,"Safiya le frappe, en larmes : « Reviens ! » Il la repousse. Elle tombe. Il comprend ce qu'il a fait.","SF, ID",ÉMOTION
+378,8,L'OR MAUDIT,3,Le Veau d'Or,L'Étreinte de Yaw,"Yaw l'étreint de force, bouclier à terre. « Tu n'es pas seul, mon frère. » L'encre reflue.","YA, ID",ÉMOTION
+379,8,L'OR MAUDIT,3,Le Veau d'Or,La Chute,Dhahab rit et déclenche l'effondrement du palais. Les murs d'or se liquéfient. L'équipe est séparée.,"DH, ID, SF, YA",ACTION
+380,8,L'OR MAUDIT,3,Le Veau d'Or,Le Seuil,"Idriss est seul face à Dhahab, dans un désert d'or. Dhahab : « Toi et moi, nous avons la même faim. »","ID, DH",CLIFF
+381,8,L'OR MAUDIT,4,La Chute du Haj,Le Siège de la Mine,Dhahab déchaîne ses armées d'or sur les mineurs de Johannesburg. L'Alliance appelle à l'aide.,"DH, BS, YA, SF",ACTION
+382,8,L'OR MAUDIT,4,La Chute du Haj,Boubacar Arrive,"Le Haj apparaît, seul, bâton à la main. Il ordonne l'évacuation et prend la place de tête.","BS, YA, SF",ÉMOTION
+383,8,L'OR MAUDIT,4,La Chute du Haj,Le Poing de Basalte,"Boubacar écrase les premières lignes. Un Soleil à pleine puissance. Le sol se fend, la gravité s'effondre.",BS,ACTION
+384,8,L'OR MAUDIT,4,La Chute du Haj,La Promesse,"Il dit à Safiya : « Si je tombe, veille sur Idriss. » Elle répond non. Il sourit : « Alors accompagne-le. »","BS, SF",ÉMOTION
+385,8,L'OR MAUDIT,4,La Chute du Haj,Mort de Boubacar,"Pour protéger des mineurs, il retient l'effondrement à mains nues. Il tient dix minutes de trop. Sa dernière phrase : « Rentre chez toi. »","BS, ID",ÉMOTION
+386,8,L'OR MAUDIT,4,La Chute du Haj,Les Larmes de Pierre,Tendai sculpte une stèle pour le Haj. La pierre se met à pleurer de l'eau. Tous se recueillent.,"TM, ID, SF",ÉMOTION
+387,8,L'OR MAUDIT,4,La Chute du Haj,Idriss sans Gardiens,"Seul, vidé, il tente d'invoquer ses Gardiens. Aucun ne vient. Même Fennek lui tourne le dos. Un vide immense.",ID,ÉMOTION
+388,8,L'OR MAUDIT,4,La Chute du Haj,Le Testament,Un testament de Boubacar est lu : il lègue à Idriss son bâton et un mot : « Tu portes. Ne porte pas seul. »,"ID, SF, YA",ÉMOTION
+389,8,L'OR MAUDIT,4,La Chute du Haj,Le Deuil du Diwan,Le Diwan est sous le choc. Un conseil provisoire se forme. Nour assiste aux funérailles et pour la première fois voit son frère pleurer.,"NO, ID",ÉMOTION
+390,8,L'OR MAUDIT,4,La Chute du Haj,La Voix du Père,Une voix chuchote dans le Lawh : « Idriss. » C'est une voix qu'il connaît depuis l'enfance.,"ID, MOU",CLIFF
+391,8,L'OR MAUDIT,5,Le Lawh du Père,Encre Noire,"Il rôde dans la mine, haineux. L'Encre Noire lui offre des solutions faciles : écraser, effacer, dominer.",ID,TENSION
+392,8,L'OR MAUDIT,5,Le Lawh du Père,Le Lawh Glitch,"Le Lawh s'efface par endroits. Un texte étrange apparaît, caractères que personne ne lit.","ID, AF",LORE
+393,8,L'OR MAUDIT,5,Le Lawh du Père,Retour de Hamidou,"Hamidou, rongé de remords, se présente. Il révèle que Dhahab le manipulait depuis vingt ans via sa bague.","HD, ID, SF",RÉVÉLATION
+394,8,L'OR MAUDIT,5,Le Lawh du Père,Hamidou contre Dhahab,"Sa bague d'or fond dans sa main. Hamidou, en face de Dhahab, tient un moment grâce à une dernière ruse.","HD, DH",ACTION
+395,8,L'OR MAUDIT,5,Le Lawh du Père,Mort de Hamidou,Il libère des centaines de mineurs avant de se faire absorber par l'or. « Dis à Nour que le beurre d'arachide est dans le placard… » Larme et humour.,"HD, ID",ÉMOTION
+396,8,L'OR MAUDIT,5,Le Lawh du Père,Le Combat Final,"Idriss retrouve ses Gardiens grâce au chant de Dieli. Ils reviennent un à un, hésitants.","ID, DI, AM, FE, AG",ÉMOTION
+397,8,L'OR MAUDIT,5,Le Lawh du Père,La Chanson de Binta,"Nour chante la mélodie de Binta. L'encre noire se dissout, laissant l'or pur.","NO, ID, DI",ÉMOTION
+398,8,L'OR MAUDIT,5,Le Lawh du Père,Dhahab Meurt,"L'équipe attaque Dhahab ensemble : Safiya, Yaw, Tendai, Kenza, les Gardiens. Dhahab fond sur place en riant.","ID, SF, YA, DH",ACTION
+399,8,L'OR MAUDIT,5,Le Lawh du Père,Message de Moussa,"Dans l'or fondu, un parchemin brille : « Idriss, n'écris pas la fin. Ils te la demanderont. Ne cède pas. » Signé Moussa.","ID, MOU",RÉVÉLATION
+400,8,L'OR MAUDIT,5,Le Lawh du Père,Vers Wabar,"Baba Salim, sur une dune : « Le prochain trône dort dans les sables de l'Arabie. » Un faucon blanc passe au loin.","SAL, ID",CLIFF
+401,9,LES SABLES DE WABAR,1,Le Quart Vide,Riyad,"Tours de verre dans le désert. L'Alliance se réunit. Zayed Al-Mansouri, rang Or, fauconnier émirati, se présente avec son faucon Saqr.","ID, SF, YA, KE, ZM",LORE
+402,9,LES SABLES DE WABAR,1,Le Quart Vide,Le Faucon Blanc,Saqr apporte la nouvelle : un Sarab a surgi dans le cratère de Wabar. Zayed confie avoir perdu un frère dans un Sarab.,"ZM, ID",ÉMOTION
+403,9,LES SABLES DE WABAR,1,Le Quart Vide,Le Convoi du Désert,"4x4 puis dromadaires. Les Bédouins offrent le café à la cardamome. Hospitalité, patience, silence.","ID, SF, ZM",RESPIRATION
+404,9,LES SABLES DE WABAR,1,Le Quart Vide,Le Désert Sans Fin,"Le Quart Vide : des dunes à l'infini, des mirages qui jouent avec la boussole. Kenza perd son sang-froid, Yaw chante pour se calmer.","ID, SF, YA, KE, ZM",TENSION
+405,9,LES SABLES DE WABAR,1,Le Quart Vide,Les Bédouins,"Une tribu raconte Iram, la cité aux mille colonnes, qui se dévoile aux cœurs purs. Zayed rit : « Les cœurs purs sont rares. »","ID, SF, ZM",LORE
+406,9,LES SABLES DE WABAR,1,Le Quart Vide,Les Étoiles de Wabar,Nuit claire. Safiya demande : « Et après ? » Il ne répond pas. Elle comprend sans entendre.,"SF, ID",ÉMOTION
+407,9,LES SABLES DE WABAR,1,Le Quart Vide,La Dune Chantante,Une dune émet un chant grave. Des créatures de sable surgissent. Zayed et Saqr brillent.,"ID, YA, KE, ZM",ACTION
+408,9,LES SABLES DE WABAR,1,Le Quart Vide,L'Oasis de Verre,"Un oasis trop parfait : palmiers lisses, eau comme un miroir. Une illusion. Premier signe du Sarab-Roi.","ID, SF, YA, KE, ZM",TENSION
+409,9,LES SABLES DE WABAR,1,Le Quart Vide,Baba Salim au Bivouac,"Il apparaît à leur feu : « J'étais ici avant l'oasis. » Il sert le thé. Idriss le fixe, Safiya prend la main sur son sabre.","SAL, ID, SF",LORE
+410,9,LES SABLES DE WABAR,1,Le Quart Vide,Wabar,Ils atteignent le cratère. Un Sarab s'ouvre comme un miroir géant. Le ciel s'y reflète à l'envers.,"ID, SF, YA, KE, ZM",CLIFF
+411,9,LES SABLES DE WABAR,2,La Cité d'Iram,Les Colonnes,"Iram, cité aux mille colonnes de grès doré. Les rues sont des jardins suspendus. Pas un souffle.","ID, SF, YA, KE",LORE
+412,9,LES SABLES DE WABAR,2,La Cité d'Iram,La Cour des Djinns,"Des djinns nobles, ifrits et marids, accueillent ou toisent. Ils méprisent les Trônes autant que les humains.","ID, SF, YA, KE, ZM",LORE
+413,9,LES SABLES DE WABAR,2,La Cité d'Iram,L'Hospitalité,"Règle d'Iram : ne jamais refuser un repas. Yaw mange trop, les couleurs de sa peau changent. Humour.","YA, KE, ID",HUMOUR
+414,9,LES SABLES DE WABAR,2,La Cité d'Iram,Le Procès,"Les djinns jugent Idriss pour « port illégitime de la plume ». Zayed plaide, Safiya hausse le ton.","ID, SF, ZM",TENSION
+415,9,LES SABLES DE WABAR,2,La Cité d'Iram,Le Thé d'Iram,"Baba Salim avoue : « Je ne suis pas un homme, Idriss. Je suis ce qui reste d'un seul. » La Balance de Maât ne détecte aucun mensonge.","SAL, ID",RÉVÉLATION
+416,9,LES SABLES DE WABAR,2,La Cité d'Iram,Un Allié Inattendu,"Un vieux juge djinn, Sheikh Qasim, prend le parti d'Idriss. Il révèle que le Sarab-Roi a pris le cœur de la cité.","ID, ZM",LORE
+417,9,LES SABLES DE WABAR,2,La Cité d'Iram,La Vérité à Moitié,"Salim explique : les Trônes veulent la plume, les Veilleurs veulent qu'on la leur tende. « Les deux mentent, mais pas de la même façon. »","SAL, ID",RÉVÉLATION
+418,9,LES SABLES DE WABAR,2,La Cité d'Iram,Safiya Blessée,"Un piège d'illusion la frappe. Idriss soigne avec l'Eau-Mémoire. Elle sourit, pâle : « Tu es mon médecin préféré. »","SF, ID, MW",ÉMOTION
+419,9,LES SABLES DE WABAR,2,La Cité d'Iram,Le Marché des Souffles,Un marché où les djinns échangent des souffles. Kenza négocie un souffle de forge. Le prix d'une respiration.,"KE, YA",HUMOUR
+420,9,LES SABLES DE WABAR,2,La Cité d'Iram,Le Roi des Mirages,Un masque de miroir apparaît au sommet du palais : le Sarab-Roi. Il sourit avec mille visages.,"ID, SF, YA, KE, SRO",CLIFF
+421,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Les Miroirs,"La cité se retourne : chaque rue devient miroir. Les compagnons se perdent, chacun face à son reflet.","ID, SF, YA, KE",TENSION
+422,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Mille Idriss,"Mille Idriss l'attaquent, certains vrais, certains faux. Impossible de savoir. Les Gardiens eux-mêmes hésitent.","ID, AM, FE",ACTION
+423,9,LES SABLES DE WABAR,3,Le Roi des Mirages,L'Œil Faux,La Balance de Maât se dérègle : tout est vrai ou faux à la fois. Le monde n'a plus de base.,ID,TENSION
+424,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Ce qu'il a Perdu,"Dans un miroir, Binta chante. Il résiste, serre le cauri de sa grand-mère.","ID, BI",ÉMOTION
+425,9,LES SABLES DE WABAR,3,Le Roi des Mirages,La Mémoire Trouée,"Le Sarab-Roi lui vole un souvenir : le premier jour où il a vu Safiya. Il ne s'en rend pas compte. Le lecteur, si.","ID, SRO",RÉVÉLATION
+426,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Le Père Fantôme,"Un reflet de Moussa lui parle, trop doux. Il sent la ficelle et le détruit. Il n'en veut pas à son père, mais à celui qui joue avec.","ID, MOU",ÉMOTION
+427,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Zayed Seul,"Zayed affronte une horde de copies de lui-même, Saqr au-dessus. Il rit : « Je suis trop beau pour qu'on me copie. »",ZM,ACTION
+428,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Safiya dans le Miroir,"Safiya est happée par un miroir. Idriss tend la main, elle disparaît dans son propre reflet.","SF, ID",ACTION
+429,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Mort de Safiya,"Le Roi montre son corps, transpercé. Idriss s'effondre. Le Lawh affiche : « Safiya Aït-Mansour : état inconnu. »","ID, SRO, SF",ÉMOTION
+430,9,LES SABLES DE WABAR,3,Le Roi des Mirages,Le Cri,Un cri d'Idriss brise tous les miroirs. La cité entière vacille. Le sol se fend.,ID,CLIFF
+431,9,LES SABLES DE WABAR,4,Les Sept Voix,Les Veilleurs,"Une lumière blanc-or l'enveloppe, une voix chaude l'appelle. Il est arraché au chaos.","ID, VE",RÉVÉLATION
+432,9,LES SABLES DE WABAR,4,Les Sept Voix,L'Invitation,"Il se réveille dans un lieu hors du temps : une salle sans murs, avec sept trônes de lumière.","ID, VE",LORE
+433,9,LES SABLES DE WABAR,4,Les Sept Voix,La Salle des Ancêtres,"Sept silhouettes drapées : le Lion du Mandé, la Prophétesse des Aurès, la Reine aux Mille Lances, l'Empereur d'Or, le Sage de Tombouctou, la Lionne de Zazzau, le Négus de Pierre.","ID, VE",LORE
+434,9,LES SABLES DE WABAR,4,Les Sept Voix,Le Lion du Mandé,"Le chef des Veilleurs parle : « Fils d'Afrique, nous t'avons attendu mille ans. » Il flatte, rassure, impressionne.","ID, VE",TENSION
+435,9,LES SABLES DE WABAR,4,Les Sept Voix,Qui a écrit ton nom ?,"Le Lion pose la question rituelle. Idriss : « Moi, avec ceux qui m'aiment. » Les Veilleurs échangent un regard : réponse insuffisante.","ID, VE",RÉVÉLATION
+436,9,LES SABLES DE WABAR,4,Les Sept Voix,La Fin à Écrire,"Ils lui demandent d'écrire « la fin » : clore le Livre pour tout recommencer sans douleur. Un monde neuf, sans guerre.","ID, VE",TENSION
+437,9,LES SABLES DE WABAR,4,Les Sept Voix,Refus,"Il refuse : « Il y a trop de noms dans ce livre. » Le Lion sourit, un peu trop.","ID, VE",TENSION
+438,9,LES SABLES DE WABAR,4,Les Sept Voix,Moussa le Pion,Ils lui avouent : Moussa fut leur pion. C'est eux qui l'ont envoyé dans le Ghayb. Il est resté prisonnier de la Cité de Cuivre.,"ID, VE, MOU",RÉVÉLATION
+439,9,LES SABLES DE WABAR,4,Les Sept Voix,Trahison,Les Veilleurs tendent des chaînes d'encre blanche. « Pour ton bien. » Il ne peut plus bouger.,"ID, VE",ACTION
+440,9,LES SABLES DE WABAR,4,Les Sept Voix,Les Chaînes d'Encre,"Immobilisé, l'encre qui l'enchaîne lui lit des visions : le monde réécrit à leur manière. Il entend, au loin, la kora de Dieli.","ID, VE, DI",CLIFF
+441,9,LES SABLES DE WABAR,5,La Réécriture,Libre,Le Chant de Dieli et l'épée d'Amghar brisent les chaînes. Le Lion furieux le laisse partir : « Tu reviendras. »,"ID, DI, AM, VE",ACTION
+442,9,LES SABLES DE WABAR,5,La Réécriture,Safiya Vivante ?,"Il la retrouve gisante dans le sable, à peine vivante. Elle respire. Il a juste le temps de la serrer.","ID, SF",ÉMOTION
+443,9,LES SABLES DE WABAR,5,La Réécriture,Le Marché,Le Sarab-Roi propose : la vie de Safiya contre les souvenirs d'Idriss. Une vie contre quelques années.,"SRO, ID",TENSION
+444,9,LES SABLES DE WABAR,5,La Réécriture,La Page Blanche,Le Lawh affiche une page vierge. « Réécriture Mineure disponible. Coût : un souvenir. »,ID,LORE
+445,9,LES SABLES DE WABAR,5,La Réécriture,Le Prix,Idriss hésite longtemps. Fennek se frotte à lui. Amghar pose une main sur son épaule. Il choisit.,"ID, FE, AM",ÉMOTION
+446,9,LES SABLES DE WABAR,5,La Réécriture,Première Réécriture,Il écrit : « Safiya Aït-Mansour vit. » Le sable se referme sur ses blessures. Un souvenir s'efface : son dixième anniversaire.,"ID, SF",RÉVÉLATION
+447,9,LES SABLES DE WABAR,5,La Réécriture,Le Souvenir Perdu,"Au téléphone, Nour évoque son anniversaire de dix ans. Il ne s'en souvient plus. Premier frisson.","ID, NO",ÉMOTION
+448,9,LES SABLES DE WABAR,5,La Réécriture,Le Sarab-Roi Meurt,"Libéré des illusions, Idriss tue le Sarab-Roi. Le masque se brise : il n'y a rien dessous.","ID, SRO",ACTION
+449,9,LES SABLES DE WABAR,5,La Réécriture,Les Quatre Trônes Tombés,Baba Salim : « Quatre sont tombés. Cinq restent. Ils ne laisseront pas le monde s'achever sans combat. »,"SAL, ID",LORE
+450,9,LES SABLES DE WABAR,5,La Réécriture,Les Cent Mirages,Le ciel du monde entier se couvre de miroirs. Les Trônes passent à l'offensive.,"ID, SF, ZM",CLIFF
+451,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Le Ciel s'Ouvre,"Sur tous les continents, des miroirs s'ouvrent au-dessus des capitales. Des armées en sortent. Plan large mondial.","ID, SF",ACTION
+452,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Tokyo,Hiro Tanabe et sa guilde tiennent la baie de Tokyo contre des vagues de monstres. Un sabre contre une marée.,ÉTO,ACTION
+453,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Paris,"Isabelle Marchand défend les ponts de la Seine, cape sur les épaules, cigarette éteinte aux lèvres.",ÉTO,ACTION
+454,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,New York,Marcus Bell arrête un Sarab-Roi mineur sur Brooklyn Bridge. La ville tremble mais ne cède pas.,ÉTO,ACTION
+455,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Mumbai,"Priya Raghavan défend la côte, entourée de milliers de fidèles chantant.",ÉTO,ACTION
+456,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Rio,"Diego Salvatierra protège les favelas, soutenu par les capoeiristes.",ÉTO,ACTION
+457,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Le Pacte,"Idriss, par le Lawh, appelle les Étoiles : « Unissez-vous. » Le monde le proclame Étoile, hors rang. Il parle pour la première fois à tous.","ID, ÉTO",ÉMOTION
+458,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Al-Wagadou Appelle,La ville devient la capitale de l'Alliance. Mariam prépare des repas pour des milliers de combattants.,"MA, NO",RESPIRATION
+459,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Nour Propose,"Nour, 18 ans, présente un plan de défense mondiale basé sur la coordination des Gardiens. Les généraux se taisent, puis acquiescent.","NO, BS, ÉTO",RÉVÉLATION
+460,10,LE GRAND SIÈGE,1,Le Jour des Cent Mirages,Les Tours du Soleil,Assemblée des Cent Nations. Idriss entre sous les applaudissements. Mais une ombre rouge traverse la salle.,"ID, NO, ÉTO",CLIFF
+461,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Les Étoiles,"Les cinq Étoiles se rencontrent pour la première fois en personne. Rivalités, respect, humour.","ÉTO, ID, SF",HUMOUR
+462,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Cellule de Crise,"Salle de commandement au 58ᵉ étage. Cartes holographiques, drones, Kenza en chef technique.","NO, KE, ÉTO",LORE
+463,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Le Plan de Nour,"Elle identifie trois points critiques : Le Caire, Al-Wagadou, Séoul. Idriss est affecté à la capitale.","NO, ID",TENSION
+464,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,La Légion des Mille Noms,"Idriss déploie la Légion : mille Gardiens, dont d'anciens ennemis consentants. Un fleuve d'encre indigo.","ID, DI",ACTION
+465,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Le Premier Front,Combat au Caire : Nasser et ses hommes contre les hordes. Wepwawet tient la ligne.,"NF, WE, SF",ACTION
+466,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Le Caire Tient,"Taouret accourt, Maât juge, le Nil se soulève. Une victoire inattendue.","NF, SF, WE",ACTION
+467,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Le Banquet des Nations,"Respiration : un dîner improvisé entre toutes les nations. Pâtes, riz, ugali, sushi. Yaw prépare son jollof.","YA, ÉTO, KE",HUMOUR
+468,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Safiya et Idriss,"Sur un toit, elle lui prend la main : « Reviens toujours. » Il ne répond pas. Elle le serre contre elle.","SF, ID",ÉMOTION
+469,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,Veille,"Mariam prie, Nour étudie des cartes, Yaw cuisine, Kenza bricole. Le dernier calme.","MA, NO, YA, KE",RESPIRATION
+470,10,LE GRAND SIÈGE,2,Les Étoiles du Monde,L'Aube,"Au lever du soleil, deux silhouettes se dressent au-dessus d'Al-Wagadou : Harb, la Guerre, et Samoum, le Simoun.","HB, SMO",CLIFF
+471,10,LE GRAND SIÈGE,3,Harb et Samoum,Harb,"Géant d'os, quatre bras, masque de crâne. Il frappe la ville : un coup, un quartier.","HB, ID",ACTION
+472,10,LE GRAND SIÈGE,3,Harb et Samoum,Samoum,"Une femme de tempête rouge, voilée, qui éteint le ciel. Le simoun aveugle les Gardiens.","SMO, SF",ACTION
+473,10,LE GRAND SIÈGE,3,Harb et Samoum,Tempête de Sable,"Les défenses tombent. Jamila diffuse en direct depuis la tour, la voix cassée.","JO, KE",TENSION
+474,10,LE GRAND SIÈGE,3,Harb et Samoum,Brahim,Brahim organise l'évacuation et la défense du pont. Son bras-cauri crépite. Il est enfin là où il doit être.,"BC, YA",ÉMOTION
+475,10,LE GRAND SIÈGE,3,Harb et Samoum,Mort de Brahim,Il arrête une horde de Harb à lui seul en faisant exploser son bras-cauri. Dernier regard à Idriss : « J'ai porté pour une fois. »,"BC, ID",ÉMOTION
+476,10,LE GRAND SIÈGE,3,Harb et Samoum,Jamila,Elle continue de filmer malgré la tempête. Zouzou s'écrase. Elle ramasse le micro et parle à voix nue.,JO,ÉMOTION
+477,10,LE GRAND SIÈGE,3,Harb et Samoum,Les Remparts du Fleuve,Le Niger se soulève : Bida protège la ville. Les Gardiens et Éveillés tiennent sur les quais.,"BID, ID, YA",ACTION
+478,10,LE GRAND SIÈGE,3,Harb et Samoum,Bida s'Éveille,"Le serpent engloutit la tempête de Samoum. La ville reprend son souffle, mais Harb avance.","BID, HB",ACTION
+479,10,LE GRAND SIÈGE,3,Harb et Samoum,Contre Harb,"Idriss affronte Harb avec toute la Légion. Il faut éviter le coup, seize fois, vingt fois.","ID, HB",ACTION
+480,10,LE GRAND SIÈGE,3,Harb et Samoum,Quatre Bras,"Les quatre bras de Harb immobilisent Idriss. L'un d'eux se tend vers le sommet des Tours du Soleil, où se trouve Nour.","ID, HB, NO",CLIFF
+481,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Le Piège,Harb n'était qu'un leurre : il voulait faire sortir Nour. Un portail s'ouvre derrière elle.,"HB, NO, ID",ACTION
+482,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Harb vise Nour,Il a compris qu'elle est la Page. Il lance sa lance vers elle. Idriss est trop loin.,"HB, NO",ACTION
+483,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Amghar,"Le Cavalier Voilé s'interpose. Sa takouba brise la lance. Il se tient devant Nour, silencieux.","AM, NO, HB",ACTION
+484,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Le Voile,"Son voile se déchire. Pour la première fois, on voit son visage : ancien, serein, un guerrier du désert.",AM,ÉMOTION
+485,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Les Adieux,"Il parle enfin : « Ton nom est écrit par ceux qui t'aiment, Idriss. » Il se tourne vers Nour.","AM, ID, NO",ÉMOTION
+486,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Mort d'Amghar,"Harb le transperce. Amghar se désagrège en poussière d'or, laissant son voile indigo flotter.","AM, HB, ID",ÉMOTION
+487,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Le Manteau,Idriss ramasse le voile et le noue à son écharpe. Le Lawh : « Gardien perdu : Amghar. » Il ne pleure pas. Il rugit.,ID,ÉMOTION
+488,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Harb Tombe,"Libéré par la rage et le chant de Dieli, Idriss et ses Gardiens tranchent Harb en mille éclats.","ID, DI, JA, WE",ACTION
+489,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Samoum Cède,Safiya et Zayed forcent Samoum dans une tempête de lames et de plumes. La tempête recule.,"SF, ZM",ACTION
+490,10,LE GRAND SIÈGE,4,Le Sacrifice d'Amghar,Silence,Les deux Trônes sont tombés. Le champ est silencieux. Seul le voile d'Amghar flotte.,"ID, SF, NO",CLIFF
+491,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Bilan,"Dégâts, morts, rescapés. La ville est debout, mais éreintée. Les Étoiles envoient des renforts.","NO, ÉTO",TENSION
+492,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Funérailles Collectives,"Les nations rendent hommage ensemble. Brahim reçoit une médaille. Sa mère, venue de Gao, la reçoit en pleurant.","ID, YA, SF",ÉMOTION
+493,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Baba Salim,"Il révèle le seul chemin pour terminer la guerre : le Ghayb, la Cité de Cuivre, où dorment les trois derniers Trônes.","SAL, ID",LORE
+494,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Le Choix,Idriss annonce qu'il y ira seul. Safiya le gifle doucement : « Plus jamais seul. »,"ID, SF",ÉMOTION
+495,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Nour Insiste,"Nour refuse de rester. Elle est la Page. Elle doit venir. Idriss cède, bouleversé.","NO, ID",ÉMOTION
+496,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Adieux,Mariam étreint ses enfants. Elle leur remet la kora de Binta. « Rapportez-la. »,"MA, ID, NO",ÉMOTION
+497,10,LE GRAND SIÈGE,5,La Porte du Ghayb,L'Ombre du Père,"À la surface du Niger, le reflet de Moussa se dessine, bras tendus. Bida le salue.","ID, MOU, BID",ÉMOTION
+498,10,LE GRAND SIÈGE,5,La Porte du Ghayb,La Porte,"Zamma, d'une voix profonde, ouvre la porte du Ghayb : « Entrez, je vous attends. » Un trou de ciel s'ouvre sur le fleuve.","ZAM, ID",LORE
+499,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Le Seuil,"Ils passent un à un. Fennek en premier, Dieli en dernier. Safiya serre la main d'Idriss, Yaw tient Nour.","ID, SF, YA, NO, KE, FE, DI",ACTION
+500,10,LE GRAND SIÈGE,5,La Porte du Ghayb,Madinat an-Nahas,"Splash pleine page : la Cité de Cuivre. Remparts de laiton, tours dorées, ciel d'ambre.","ID, SF, YA, NO",CLIFF
+501,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Le Seuil du Ghayb,"La traversée : le temps se plie, les noms se dissolvent. Idriss rattrape Nour par la main au dernier instant.","ID, NO, SF, YA, KE",ACTION
+502,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,La Cité de Cuivre,"Remparts de laiton, rues d'ambre, habitants au teint doré qui ont oublié leur nom. Description grandiose.","ID, NO, SF",LORE
+503,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Les Règles du Ghayb,"Salim les accueille : « Ici, un nom est une matière. Si tu le perds, tu disparais. » Il distribue des talismans de cauri.","SAL, ID, NO",LORE
+504,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Le Marché des Noms,"Des marchands vendent des noms. Nour, curieuse, manque de céder le sien. Idriss la rattrape.","NO, ID",TENSION
+505,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Les Gardiens Reviennent,"Les Gardiens, plus puissants ici, se matérialisent presque : Jarad, Wepwawet, Agadir. Dieli joue pour les protéger.","ID, JA, WE, AG, DI",ACTION
+506,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Tasse de Cuivre,"Respiration : thé dans une échoppe de la Cité. Salim raconte les débuts du monde. Tous écoutent, suspendus.","SAL, ID, NO, SF",RESPIRATION
+507,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Les Gardes de Laiton,"Une patrouille de gardes les arrête. Yaw négocie, Kenza les convainc avec une démonstration technique.","YA, KE, SF",HUMOUR
+508,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Le Palais Silencieux,"Au cœur de la cité, un palais d'où ne sort aucun son. Salim : « Sakt règne ici. Il vous a vus. »","SAL, ID",TENSION
+509,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,La Mendiante,"Une femme voilée leur souffle : « Le Prisonnier chante, la nuit. » Elle disparaît. Idriss sent son cœur se serrer.","ID, NO",LORE
+510,11,LA CITÉ DE CUIVRE,1,Madinat an-Nahas,Le Silence Tombe,"Plus un son. Les bouches s'ouvrent, rien ne sort. Sakt a étendu son Domaine sur la rue.","ID, SF, YA, NO, KE",CLIFF
+511,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Le Monde Sans Son,Plus un bruit ni un battement de cœur. Les épées ne s'entrechoquent pas. La panique est muette.,"ID, SF, YA, NO, KE",TENSION
+512,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Lire sur les Lèvres,Nour improvise un code par signes. Safiya lit les lèvres. Kenza crée des vibreurs pour communiquer.,"NO, SF, KE",ACTION
+513,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Dieli Sans Voix,"Dieli joue, mais sa kora est muette. Il pleure en silence, honteux.","DI, ID",ÉMOTION
+514,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,La Plume de Nour,Nour écrit avec son encre argent-bleu des phrases dans l'air pour guider le groupe. Première utilisation active de son pouvoir.,"NO, ID",ACTION
+515,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Séparés,Les gardes de Sakt séparent le groupe dans le labyrinthe de rues. Chacun seul.,"ID, SF, YA, NO, KE",TENSION
+516,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Idriss Seul,"Idriss marche dans les rues muettes, hanté par les voix absentes de ceux qu'il a perdus.",ID,ÉMOTION
+517,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Silence de Safiya,Safiya fait face à des illusions muettes de Yanis. Elle résiste.,SF,ÉMOTION
+518,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,L'Oreille du Vent,"Au plus profond du silence, Safiya entend la voix intérieure d'Idriss : « Je suis là. » Elle fonce.","SF, ID",ÉMOTION
+519,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Le Chant qui Revient,"Le groupe se retrouve. Dieli frotte une corde de sa kora : le son revient, fragile, grandissant. Les gardes reculent.","DI, ID, NO",ACTION
+520,11,LA CITÉ DE CUIVRE,2,Les Rues du Silence,Sakt,"Une silhouette grise sans bouche ni yeux surgit. Sakt, Trône du Silence. Il pose un doigt sur ses lèvres absentes.","SAK, ID",CLIFF
+521,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Les Cachots de Cuivre,"Sakt recule, vaincu par le chant. Les héros s'engouffrent dans les cachots du palais, couloirs de laiton plein de cris étouffés.","ID, SF, NO",ACTION
+522,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,La Voix du Père,"Une voix chante faux, lointaine, au bout d'un couloir : une berceuse mandé. Idriss la reconnaît.",ID,ÉMOTION
+523,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Sakt Recule,"Sakt tente de les arrêter. Dieli, Jarad et Wepwawet le contiennent. Idriss avance.","ID, DI, JA, WE",ACTION
+524,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Le Couloir,"Un couloir sans fin, chaque porte ouvrant sur un souvenir. Idriss s'oblige à ne pas s'arrêter.",ID,TENSION
+525,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Les Chaînes,"Au fond, une grande salle : un homme enchaîné à un cœur de cuivre qui bat, alimentant la Cité. Moussa Keïta, vieilli, barbe poivre et sel.","ID, MOU",RÉVÉLATION
+526,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Père et Fils,Moussa lève les yeux : « Tu as grandi. » Idriss tombe à genoux. Splash pleine page.,"ID, MOU",ÉMOTION
+527,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Il Sait Tout,Moussa explique : il est la batterie vivante qui alimente le Ghayb. Les Veilleurs l'ont envoyé là. Il a tenu en chantant.,"MOU, ID",LORE
+528,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Les Veilleurs,"Moussa avertit : ils veulent la plume pour clore le livre. « Ne les crois pas, même quand ils pleurent. »","MOU, ID",TENSION
+529,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,Nour et Moussa,Moussa regarde Nour : « La petite… » Il lui prend les mains. Il lui parle de Binta et de la Page.,"MOU, NO",ÉMOTION
+530,11,LA CITÉ DE CUIVRE,3,Le Prisonnier,La Fuite,Les alarmes retentissent. Les murs de cuivre se referment. Il faut briser les chaînes.,"ID, MOU, SF, YA",CLIFF
+531,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Zamma,Le Trône de la Soif surgit : colosse squelettique à la peau de terre craquelée. Le sable envahit le palais.,"ZAM, ID",ACTION
+532,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Le Désert dans la Ville,Zamma transforme le palais en désert. Tous ont soif. Nour pâlit. Les Gardiens faiblissent.,"ZAM, ID, NO",ACTION
+533,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,La Soif de Nour,"Nour s'effondre, déshydratée. Idriss la prend dans ses bras. Eau-Mémoire, pas assez.","NO, ID, MW",TENSION
+534,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Le Prix de l'Encre,"Pour la sauver, il écrit une ligne de Réécriture : « Nour boit ». Elle revit.","ID, NO",ACTION
+535,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Nour ?,"Il la regarde, vide : il ne se souvient plus de qui elle est. Elle lui sourit en pleurant : « C'est moi. »","ID, NO",ÉMOTION
+536,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Mémoire de Fer,"Les Gardiens, Safiya et Moussa lui rappellent des fragments de vie. Il écoute, bouleversé, sans retrouver l'émotion.","ID, SF, MOU, FE",ÉMOTION
+537,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Moussa se Lève,"Moussa brise ses chaînes, arrache le cœur de cuivre qui l'alimentait. Le palais tremble. Il se tourne vers Zamma.","MOU, ZAM",ACTION
+538,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Mort de Moussa,Il sacrifie ses dernières forces pour retenir Zamma et ouvre la voie. Il touche l'écharpe de son fils : « Je l'ai reconnue. » Il se dissout dans un vent de sable doré.,"MOU, ID, NO",ÉMOTION
+539,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,Zamma Tombe,"Libéré, Idriss, Safiya, Yaw et Jarad abattent Zamma en cascade. Le désert redevient eau.","ID, SF, YA, JA, ZAM",ACTION
+540,11,LA CITÉ DE CUIVRE,4,La Soif Éternelle,La Kora,"Dieli joue la kora de Binta. Le nom de Nour revient à Idriss comme une vague. Il la serre contre lui, sanglotant.","DI, ID, NO",CLIFF
+541,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Deuil,"Veillée funèbre sur un balcon de cuivre. Safiya, Yaw, Kenza, Nour. Idriss ne dit rien. Il tient l'écharpe.","ID, SF, YA, KE, NO",ÉMOTION
+542,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Marche,"Ils avancent vers le sommet de la Cité, où se trouve la porte de la Bibliothèque. La Cité s'effondre autour d'eux.","ID, SF, YA, KE, NO",TENSION
+543,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Sakt : Dernier Combat,"Sakt revient, enragé. Son Domaine prend tout le son. Dieli sacrifie sa voix pour le briser.","SAK, DI, ID",ACTION
+544,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Sakt Meurt,"Sakt tombe, sans bouche pour crier. Une dernière phrase s'écrit sur le sol : « Écoutez-moi. »","SAK, ID",ÉMOTION
+545,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Les Marches de la Page,Un escalier de lumière mène à une porte blanche : le Seuil de la Page. Nour pose la main sur la porte.,"NO, ID",LORE
+546,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Les Veilleurs Apparaissent,"Les sept Veilleurs apparaissent, beaux, affables. « Merci, enfant. Vous nous avez conduits. »","VE, ID, NO",RÉVÉLATION
+547,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Le Piège,"Ils avaient attendu Idriss à bout de forces. Safiya, Yaw et Kenza sont immobilisés dans des cages d'encre blanche.","VE, ID",ACTION
+548,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Effacement,"Le Lion du Mandé écrit le nom d'Idriss pour le rayer. Les lettres se défont. Idriss tombe, son corps devient translucide.","VE, ID",ACTION
+549,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Nour Prend la Plume,"Le Calame, abandonné par Idriss, se pose dans la main de Nour. Elle ferme les yeux. Un éclair argent-bleu.","NO, VE",RÉVÉLATION
+550,11,LA CITÉ DE CUIVRE,5,Le Seuil de la Page,Nour Écrit,"Nour trace : « Idriss Keïta ». Le nom brille. Elle ouvre la porte et entre avec lui, dans les bras, dans la Page.","NO, ID",CLIFF
+551,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Blanc,"Idriss se réveille dans un blanc total. Il n'a plus de nom, plus de poids, plus d'ombre. Il se souvient d'un cri.",ID,ÉMOTION
+552,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Les Étagères,"Des étagères infinies, des livres de toutes tailles, du sol au ciel. Une bibliothèque sans murs.",ID,LORE
+553,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Les Brouillons,"Il ouvre un livre : un monde minuscule, rature, abandonné. Il comprend : les Sarabs sont des brouillons qui fuient.",ID,RÉVÉLATION
+554,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Les Anciens Porteurs,Cinq silhouettes en robe d'encre l'accueillent : les anciens Sans-Ligne. Elles lui souhaitent la bienvenue et le prient de se souvenir.,ID,ÉMOTION
+555,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Porter Nour,"Nour arrive, le Calame à la main, sans le voir. Idriss, sans poids, la porte pour traverser la Page. Il redevient Porteur.","ID, NO",ÉMOTION
+556,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,L'Archiviste,"Un petit esprit de papier, l'Archiviste, ronchonne en rangeant des livres. Il guide les héros en râlant.","ID, NO",HUMOUR
+557,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Ce que Dit le Calame,"Pour la première fois, le Calame parle : « Je suis la voix du Kâtib. Je l'ai attendu. » Il est triste.","ID, NO",RÉVÉLATION
+558,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Le Registre des Cycles,"Un registre listant les cycles passés : sept mondes, sept fins. Le dernier est le leur, presque complet.","NO, ID",LORE
+559,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Les Veilleurs Reviennent,Les Veilleurs surgissent pour arracher le Calame à Nour. Le Lion : « Nous devons clore le cycle. »,"VE, NO, ID",TENSION
+560,12,LA PAGE BLANCHE,1,La Bibliothèque des Brouillons,Le Thé de la Bibliothèque,"Baba Salim arrive, une théière à la main. Il sert trois verres et dit : « Il est temps que je vous raconte la vérité. »","SAL, ID, NO",CLIFF
+561,12,LA PAGE BLANCHE,2,Les Deux Moitiés,Le Récit du Kâtib,Salim raconte : un scribe solitaire écrivait pour ne plus être seul. Il se met à parler de lui à la troisième personne.,"SAL, ID, NO",LORE
+562,12,LA PAGE BLANCHE,2,Les Deux Moitiés,Le Scribe Solitaire,"Flash-back : le Kâtib crée des paysages, des peuples, des ancêtres. Il les aime tous.",KAT,LORE
+563,12,LA PAGE BLANCHE,2,Les Deux Moitiés,La Création,"Il sépare le visible du caché pour que les hommes soient libres d'imaginer. Il écrit les Trônes, les Veilleurs.",KAT,LORE
+564,12,LA PAGE BLANCHE,2,Les Deux Moitiés,La Fatigue,Mais la souffrance des hommes pèse sur lui. Il pleure sur chaque page. Il se lasse.,KAT,ÉMOTION
+565,12,LA PAGE BLANCHE,2,Les Deux Moitiés,La Scission,De sa lassitude naît une moitié qui veut tout effacer. De sa bonté naît l'autre qui veut continuer. Il se divise en deux.,KAT,RÉVÉLATION
+566,12,LA PAGE BLANCHE,2,Les Deux Moitiés,Salim et Al-Bayaad,Splash : le Kâtib se dédouble en un vieillard au thé et un spectre blanc. Salim regarde Idriss : « Je suis ce vieillard. »,"SAL, ABY",RÉVÉLATION
+567,12,LA PAGE BLANCHE,2,Les Deux Moitiés,Al-Bayaad Paraît,"Une silhouette blanche, un voile, un trait d'encre noire à la place des yeux. Sa voix est celle de Salim, sans la tendresse.","ABY, SAL",TENSION
+568,12,LA PAGE BLANCHE,2,Les Deux Moitiés,Ses Raisons,"Al-Bayaad : « Cette douleur est sans fin. Je veux que ça cesse. » Sa logique est cohérente, glaçante.","ABY, ID",TENSION
+569,12,LA PAGE BLANCHE,2,Les Deux Moitiés,Veilleurs contre Idriss,"Les Veilleurs, voyant leur plan s'effondrer, attaquent Idriss pour s'emparer du Calame.","VE, ID",ACTION
+570,12,LA PAGE BLANCHE,2,Les Deux Moitiés,La Page se Vide,"Al-Bayaad lève la main : la Page se vide, les mots s'effacent. Au loin, sur terre, les gens oublient leurs noms.","ABY, ID, NO",CLIFF
+571,12,LA PAGE BLANCHE,3,La Bataille de la Page,Fennek Ouvre la Porte,"Fennek, tout petit, passe par une brèche et ouvre la porte aux Gardiens du monde. La promesse du début est tenue.","FE, ID",ÉMOTION
+572,12,LA PAGE BLANCHE,3,La Bataille de la Page,Le Retour des Gardiens,"Jarad, Wepwawet, Agadir, Neser, Mami, Dieli, Bida surgissent. Idriss sourit, bouleversé.","JA, WE, AG, NE, MW, DI, BID",ACTION
+573,12,LA PAGE BLANCHE,3,La Bataille de la Page,La Légion,La Légion des Mille Noms envahit la Bibliothèque. Des milliers d'esprits d'encre contre une marée de blanc.,"ID, JA, DI",ACTION
+574,12,LA PAGE BLANCHE,3,La Bataille de la Page,Safiya et Yaw,"Libérés de leurs cages d'encre, Safiya et Yaw rejoignent la bataille : lames et bouclier contre les spectres blancs.","SF, YA",ACTION
+575,12,LA PAGE BLANCHE,3,La Bataille de la Page,Nour au Centre,"Nour se tient au milieu de la Page, encre argent-bleu autour d'elle. Elle réécrit chaque ligne que le blanc efface.",NO,ACTION
+576,12,LA PAGE BLANCHE,3,La Bataille de la Page,Le Blanc Avance,"Al-Bayaad avance, imperturbable. Chaque pas efface un monde. Salim, désemparé, tente de lui parler.","ABY, SAL",TENSION
+577,12,LA PAGE BLANCHE,3,La Bataille de la Page,Al-Bayaad contre Idriss,Duel sur la Page. Chaque coup d'Idriss s'efface avant d'atteindre l'ennemi. Il se bat avec ses souvenirs.,"ID, ABY",ACTION
+578,12,LA PAGE BLANCHE,3,La Bataille de la Page,Réécriture Totale,Idriss écrit tout ce dont il se souvient dans la Page pour résister. Il paie : il oublie de plus en plus.,"ID, NO",ÉMOTION
+579,12,LA PAGE BLANCHE,3,La Bataille de la Page,Le Calame se Fissure,Le Calame craque. Une fissure d'or parcourt la plume. Il avertit : « Je ne peux pas être le seul à écrire. »,"ID, NO",RÉVÉLATION
+580,12,LA PAGE BLANCHE,3,La Bataille de la Page,Silence,Un instant d'immobilité. Tout se tait. Idriss lâche le Calame. Nour le prend. Elle le regarde et sourit.,"ID, NO",CLIFF
+581,12,LA PAGE BLANCHE,4,Le Choix,Deux Plumes,Le Calame et la Page : Idriss et Nour se font face. Ils comprennent qu'il n'a jamais fallu être seul.,"ID, NO",ÉMOTION
+582,12,LA PAGE BLANCHE,4,Le Choix,Les Voix du Monde,"Sur la Page, des voix montent : Jamila, Mariam, Tendai, Zayed, Adjoké, Kenza, Nasser, des enfants. Le monde appelle.","ID, NO",ÉMOTION
+583,12,LA PAGE BLANCHE,4,Le Choix,Nour Propose,"« Et si personne n'écrivait à notre place ? Et si chacun avait sa ligne ? » Une idée simple, vertigineuse.","NO, ID",RÉVÉLATION
+584,12,LA PAGE BLANCHE,4,Le Choix,Idriss Hésite,"Il craint de perdre le pouvoir, de perdre son rôle, de perdre ses souvenirs. Salim, d'une voix douce : « Tu n'as jamais été ce que tu écrivais. »","ID, SAL",ÉMOTION
+585,12,LA PAGE BLANCHE,4,Le Choix,Le Chant du Monde,"Mariam, Jamila, les griots, les enfants chantent les noms. Le Chant des Noms de Binta devient universel. Dieli pleure de joie.","DI, NO, ID",ÉMOTION
+586,12,LA PAGE BLANCHE,4,Le Choix,Le Peuple Écrit,Chaque nom prononcé s'écrit sur la Page. La Page se remplit de millions de lignes. Al-Bayaad vacille.,"ABY, NO",ACTION
+587,12,LA PAGE BLANCHE,4,Le Choix,Le Père dans le Vent,"Un vent de sable doré traverse la Bibliothèque : Moussa. Il pose une main sur l'épaule d'Idriss : « Fils, maintenant. »","MOU, ID",ÉMOTION
+588,12,LA PAGE BLANCHE,4,Le Choix,Le Cauri,"Idriss détache son cauri et le plonge dans le Calame. Le cauri brille. Celui de Binta aussi, dans la poche de Nour.","ID, NO",ÉMOTION
+589,12,LA PAGE BLANCHE,4,Le Choix,Le Calame Brisé,"Ensemble, ils brisent le Calame. La plume éclate en mille roseaux d'or. Splash : une pluie de roseaux sur le monde.","ID, NO",RÉVÉLATION
+590,12,LA PAGE BLANCHE,4,Le Choix,Mille Roseaux,Chaque roseau se pose dans la main d'un être humain : une ligne libre. La Pierre-Cauri de chaque Diwan se couvre de couleurs.,"ID, NO, SF",CLIFF
+591,12,LA PAGE BLANCHE,5,Sans-Ligne,Le Réveil,"Idriss se réveille sur une dune, vêtu de son vieux manteau. Safiya dort à côté de lui. Nour, Yaw, Kenza sont là aussi. Il respire.","ID, SF, NO, YA, KE",ÉMOTION
+592,12,LA PAGE BLANCHE,5,Sans-Ligne,Retour d'Amghar,"Un cavalier voilé d'indigo sort du soleil, au loin. Idriss pleure : Amghar, libre, qui s'incline une dernière fois.","ID, AM",ÉMOTION
+593,12,LA PAGE BLANCHE,5,Sans-Ligne,Les Adieux des Gardiens,"Les Gardiens, libres, choisissent. Fennek reste. Jarad part ouvrir des champs. Mami retourne à la mer. Bida au fleuve.","FE, JA, MW, BID",ÉMOTION
+594,12,LA PAGE BLANCHE,5,Sans-Ligne,Salim et Al-Bayaad Réconciliés,"Les deux moitiés du Kâtib se rejoignent. Un vieil homme sourit, léger comme l'air. « Merci pour le thé. » Il s'efface.","SAL, ABY",ÉMOTION
+595,12,LA PAGE BLANCHE,5,Sans-Ligne,Le Monde d'Après,"Le monde découvre qu'il n'y a plus de rangs, ni de Sarabs, ni de Trônes. Les Éveillés gardent leur Nyama, mais personne n'est « supérieur ».","JO, NF",LORE
+596,12,LA PAGE BLANCHE,5,Sans-Ligne,Au Diwan,Le Diwan est transformé en école et en assemblée. Nour en est la présidente. Idriss refuse tout titre.,"NO, ID",HUMOUR
+597,12,LA PAGE BLANCHE,5,Sans-Ligne,Les Noces,"Mariage de Safiya et Idriss à Tamazirt, avec les Aït-Mansour, les Keïta, le Ghana, le Maroc. Yaw pleure plus fort que tout le monde.","ID, SF, YA, KE, MA",ÉMOTION
+598,12,LA PAGE BLANCHE,5,Sans-Ligne,Le Dernier Thé,"Dans un café d'Al-Wagadou, Idriss s'assoit. Un verre vide l'attend. Il le remplit. Il répond à la question du sphinx : « Moi, avec les autres. »",ID,ÉMOTION
+599,12,LA PAGE BLANCHE,5,Sans-Ligne,Dix Ans Plus Tard,"Ellipse : l'école des Premières Lignes s'est installée dans l'ancien Sarab de Gao-Nord, devenu cour fleurie. Idriss enseigne, Safiya entraîne, Yaw dirige, Nour voyage. Fennek ronfle au soleil.","ID, SF, YA, NO, FE",RESPIRATION
+600,12,LA PAGE BLANCHE,5,Sans-Ligne,Sans-Ligne,"Un enfant demande : « Monsieur, qui a écrit ton nom ? » Idriss sourit, ajuste son écharpe indigo, regarde sa main sans glyphe. « Moi, avec vous. » Dernier plan : le cauri dans le sable.",ID,CLIFF

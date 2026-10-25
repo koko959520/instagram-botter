@@ -1,0 +1,432 @@
+{
+  "episode": 1,
+  "livre": 1,
+  "chapitre": 1,
+  "titre": "L'Homme que personne n'écrit",
+  "resume": "Cold open : une main d'or trace une ligne dans le noir. Aube au Faubourg des Sables : Idriss, porteur de rang Sable, nourrit sa famille d'espoir. Sa mère tousse, sa sœur révise, sa grand-mère accorde sa kora. Un appel : raid de dernière minute.",
+  "intention": "Installer le monde, la pauvreté, l'amour de la famille, le père absent (écharpe), la faiblesse d'Idriss. Terminer sur le départ vers le Sarab : la dernière fois qu'il sera « seulement » un porteur.",
+  "durée_cases": 42,
+  "panels": [
+    {
+      "n": 1, "shot": "VID",
+      "scene": "Total black screen. A single thin line of liquid gold ink slowly draws itself from left to right across the darkness.",
+      "chars": [], "outfit": {},
+      "action": "A thin golden ink line traced as if by an invisible hand in a black void. Nothing else.",
+      "light": "Pitch black with only the soft gold glow of the ink line.",
+      "fr": "Écran noir. Un trait d'encre d'or se trace seul.",
+      "texte": "(Récitatif) Dans le Mandé, on dit : personne n'est écrit avant de naître.",
+      "sfx": ""
+    },
+    {
+      "n": 2, "shot": "TGP",
+      "scene": "The black void. The golden line becomes a horizon line under a dark sky.",
+      "chars": [], "outfit": {},
+      "action": "Extreme close-up of the gold ink line, now widening into a glowing horizon with tiny specks of gold dust.",
+      "light": "Gold glow in absolute darkness.",
+      "fr": "Le trait devient l'horizon d'un désert au tout petit matin.",
+      "texte": "(Récitatif) Ni les rois… ni les sphinx… ni les dieux.",
+      "sfx": ""
+    },
+    {
+      "n": 3, "shot": "PE",
+      "scene": "Dawn over the Sahelian megacity of Al-Wagadou on a bend of the Niger river: mud-brick and concrete rooftops, minarets, a distant cluster of tall towers (the Tours du Soleil) made of mud-brick-style and glass, mist rising from the river.",
+      "chars": [], "outfit": {},
+      "action": "Sweeping wide view of the city waking up, golden horizon line becoming the real horizon, birds flying, smoke from cooking fires.",
+      "light": "Soft orange and pink dawn, long shadows, warm ochre and terracotta tones.",
+      "fr": "Aube sur Al-Wagadou. Plan d'ensemble de la ville au bord du fleuve.",
+      "texte": "(Récitatif) Al-Wagadou, 2049. Trente et un ans après le premier mirage.",
+      "sfx": ""
+    },
+    {
+      "n": 4, "shot": "PE",
+      "scene": "Faubourg des Sables: a poor neighborhood of narrow dusty lanes and small mud-brick houses with corrugated roofs, laundry lines, a donkey cart, a rooster on a wall.",
+      "chars": [], "outfit": {},
+      "action": "Rooftop-level view of the lanes beginning to stir; a rusty Diwan poster 'Rejoignez les Éveillés' peeling off a wall.",
+      "light": "Warm pink light, dust in the air.",
+      "fr": "Le quartier pauvre où vit Idriss.",
+      "texte": "(Récitatif) Ici, on ne rêve pas de pouvoirs. On rêve de loyers payés.",
+      "sfx": "COCORICO"
+    },
+    {
+      "n": 5, "shot": "PM",
+      "scene": "Interior of a tiny mud-brick bedroom: a thin mat on the floor, a cracked ceiling, a small window letting in dawn light, an indigo scarf hanging on a nail.",
+      "chars": ["ID"], "outfit": {"ID": "bed"},
+      "without": {"ID": ["scarf", "cowrie"]},
+      "action": "Idriss lies on a floor mat (no jacket, no scarf, no necklace on him), eyes open, staring at the ceiling, awake before the alarm. No glyph on his hands, no gold in his eyes.",
+      "light": "Soft grey-pink dawn light from the window, cool shadows.",
+      "fr": "Idriss, les yeux ouverts, avant le réveil.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 6, "shot": "TGP",
+      "scene": "The nail on the wall holding a faded indigo scarf, with a cowrie shell necklace hanging below it.",
+      "chars": [], "outfit": {},
+      "action": "Extreme close-up of the faded indigo scarf and a leather cord with a white cowrie shell hanging from a nail, dust motes floating in a ray of light.",
+      "light": "Single beam of dawn light across the scarf.",
+      "fr": "L'écharpe indigo de son père et le cauri.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 7, "shot": "GP",
+      "scene": "Same bedroom.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss sits up and ties the indigo scarf around his neck with a practiced ritual gesture, eyes soft, then puts on the cowrie necklace.",
+      "light": "Warm dawn light rising on his face.",
+      "fr": "Il noue l'écharpe, comme chaque matin.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 8, "shot": "PM",
+      "scene": "Small family kitchen-living room: a clay stove, a low table, mismatched stools, a calendar with circled dates, a school bag.",
+      "chars": ["MA"], "outfit": {"MA": "A"},
+      "action": "Mariam stands at the stove frying beignets, then coughs into her shawl, shoulders shaking; she quickly hides the shawl behind her back when she sees someone coming.",
+      "light": "Warm kitchen glow from the stove fire, soft smoke.",
+      "fr": "Mariam fait des beignets et tousse dans son châle.",
+      "texte": "MARIAM : (toux)… Ce n'est rien. La poussière du matin.",
+      "sfx": "COF… COF…"
+    },
+    {
+      "n": 9, "shot": "OTS",
+      "scene": "The kitchen doorway.",
+      "chars": ["ID", "MA"], "outfit": {"ID": "A", "MA": "A"},
+      "action": "Over Mariam's shoulder, Idriss stands in the doorway holding the scarf end, worried but smiling to hide it.",
+      "light": "Warm stove glow on his face.",
+      "fr": "Idriss voit tout, mais sourit quand même.",
+      "texte": "IDRISS : Tu as encore pris trop de commandes, Maman.",
+      "sfx": ""
+    },
+    {
+      "n": 10, "shot": "PM",
+      "scene": "The living room corner with a low table covered in textbooks, a small oil lamp still lit from the night.",
+      "chars": ["NO"], "outfit": {"NO": "A"},
+      "action": "Nour sits cross-legged with a pile of textbooks, round glasses sliding down her nose, scribbling with a pencil, a half-eaten piece of bread beside her.",
+      "light": "Mix of dawn light and the oil lamp glow.",
+      "fr": "Nour révise avant l'école.",
+      "texte": "NOUR : Tu es encore parti sans manger hier soir. Compte les dinars, mais compte aussi les repas.",
+      "sfx": ""
+    },
+    {
+      "n": 11, "shot": "GP",
+      "scene": "Same corner.",
+      "chars": ["NO"], "outfit": {"NO": "A"},
+      "action": "Nour looks up over her glasses with a worried, sharp look, pencil frozen mid-line.",
+      "light": "Soft golden light on her round glasses.",
+      "fr": "Nour regarde son frère, inquiète.",
+      "texte": "NOUR : Les frais du lycée tombent vendredi.",
+      "sfx": ""
+    },
+    {
+      "n": 12, "shot": "PM",
+      "scene": "Same living room.",
+      "chars": ["ID", "NO"], "outfit": {"ID": "A", "NO": "A"},
+      "action": "Idriss crouches next to his sister and gently ruffles her braids with a tired smile; she pretends to be annoyed.",
+      "light": "Warm, intimate light.",
+      "fr": "Idriss rassure sa sœur.",
+      "texte": "IDRISS : Je m'en occupe. Toi, tu étudies. C'est ton boulot.",
+      "sfx": ""
+    },
+    {
+      "n": 13, "shot": "PA",
+      "scene": "A corner of the room by a window: a traditional kora leaning on the wall.",
+      "chars": ["BI"], "outfit": {"BI": "A"},
+      "action": "Yaye Binta sits on a low stool tuning her kora, fingers plucking strings, eyes closed in joy, a faint smile.",
+      "light": "Soft window light making the calabash glow.",
+      "fr": "Yaye Binta accorde sa kora.",
+      "texte": "",
+      "sfx": "♪ plink… plink…"
+    },
+    {
+      "n": 14, "shot": "GP",
+      "scene": "Same corner.",
+      "chars": ["BI"], "outfit": {"BI": "A"},
+      "action": "Binta opens one eye and looks straight toward the viewer (toward Idriss) with a knowing, gentle, slightly mysterious smile.",
+      "light": "Warm side light on her wrinkles.",
+      "fr": "Binta le regarde avec une lueur de savoir.",
+      "texte": "BINTA : Mon petit porteur. Les anciens disent : le jour où l'on ne s'y attend pas…",
+      "sfx": ""
+    },
+    {
+      "n": 15, "shot": "PM",
+      "scene": "The family table with a small pile of coins and crumpled notes.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss counts a small stack of dinar coins on the table with focused worry, moving them from one pile to another: rent, medicine, school.",
+      "light": "Warm sunbeam falling on the coins.",
+      "fr": "Il compte les dinars.",
+      "texte": "(Récitatif) Loyer. Pharmacie. Lycée. Il manquait toujours la même chose : du temps.",
+      "sfx": ""
+    },
+    {
+      "n": 16, "shot": "TGP",
+      "scene": "The table.",
+      "chars": [], "outfit": {},
+      "action": "Extreme close-up of a cheap phone vibrating on the table among the coins, screen lighting up with an incoming call.",
+      "light": "Cold blue phone glow in warm morning light.",
+      "fr": "Le téléphone vibre.",
+      "texte": "",
+      "sfx": "BRRRR… BRRRR…"
+    },
+    {
+      "n": 17, "shot": "PM",
+      "scene": "Same kitchen-living room.",
+      "chars": ["ID", "MA"], "outfit": {"ID": "A", "MA": "A"},
+      "action": "Idriss answers the phone, his expression changing to attentive; Mariam in the background pauses with a beignet in tongs.",
+      "light": "Warm room light, phone glow on his chin.",
+      "fr": "Appel du contremaître.",
+      "texte": "CONTREMAÎTRE (au téléphone) : Idriss ? Un porteur a lâché. Raid à Gao-Nord, rang Cuivre. Quarante dinars. Départ dans une heure.",
+      "sfx": ""
+    },
+    {
+      "n": 18, "shot": "GP",
+      "scene": "Same.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss hesitates, jaw tight, glancing toward his mother, then toward the stack of coins.",
+      "light": "Warm light on one side of his face, cool phone glow on the other.",
+      "fr": "Il hésite : c'est dangereux, mais il a besoin d'argent.",
+      "texte": "IDRISS : (bas) Un Sarab de rang Cuivre pour un Sable… ça sent mauvais.",
+      "sfx": ""
+    },
+    {
+      "n": 19, "shot": "PM",
+      "scene": "Same.",
+      "chars": ["ID", "MA"], "outfit": {"ID": "A", "MA": "A"},
+      "action": "Mariam walks to him and places her thin hand on his cheek, forcing a bright smile through her tired eyes.",
+      "light": "Warm kitchen light.",
+      "fr": "Mariam le pousse à y aller.",
+      "texte": "MARIAM : Va. Le travail ne tombe pas du ciel. Reviens-moi entier, c'est tout.",
+      "sfx": ""
+    },
+    {
+      "n": 20, "shot": "TGP",
+      "scene": "Same.",
+      "chars": ["MA", "ID"], "outfit": {"MA": "A", "ID": "A"},
+      "action": "Extreme close-up of Mariam's thin hand pressing his scarf end back against his chest.",
+      "light": "Soft warm light.",
+      "fr": "Sa main sur l'écharpe.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 21, "shot": "PM",
+      "scene": "The doorway of the house, morning light pouring in, the lane outside.",
+      "chars": ["ID", "NO"], "outfit": {"ID": "A", "NO": "A"},
+      "action": "Nour runs to the door and tucks a small wrapped beignet into Idriss's jacket pocket, scolding him with a frown.",
+      "light": "Bright white-gold morning light from the lane.",
+      "fr": "Nour glisse un beignet dans sa poche.",
+      "texte": "NOUR : Mange-le. Sinon je le dis à Binta.",
+      "sfx": ""
+    },
+    {
+      "n": 22, "shot": "PA",
+      "scene": "Same doorway, seen from outside.",
+      "chars": ["BI"], "outfit": {"BI": "A"},
+      "action": "Binta stands at the doorframe leaning on her kora, calling out to him with a strange serious tone.",
+      "light": "Backlit by the interior, soft rim light.",
+      "fr": "Binta murmure quelque chose d'étrange.",
+      "texte": "BINTA : Idriss. Reviens avec ton nom entier.",
+      "sfx": ""
+    },
+    {
+      "n": 23, "shot": "GP",
+      "scene": "The lane outside.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss turns his head back toward the house with a puzzled half-smile, scarf end fluttering in the morning breeze.",
+      "light": "Warm morning sunlight, golden rim on his curly hair.",
+      "fr": "Il se retourne, intrigué par la phrase.",
+      "texte": "IDRISS : (sourire) Toujours des énigmes, Yaye.",
+      "sfx": ""
+    },
+    {
+      "n": 24, "shot": "PE",
+      "scene": "The Faubourg des Sables lanes at full morning life: stalls, children with schoolbags, a donkey cart, women with baskets on their heads, a mobile phone vendor.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss, small in the frame, walks through the busy lane, a simple porter among hundreds of people.",
+      "light": "Bright warm morning, dust haze, ochre and terracotta tones.",
+      "fr": "Il traverse le quartier.",
+      "texte": "(Récitatif) Un porteur de rang Sable. Le dernier échelon. Celui qu'on paie pour ne pas se battre.",
+      "sfx": ""
+    },
+    {
+      "n": 25, "shot": "PM",
+      "scene": "A wall plastered with old torn posters in the lane.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss slows down in front of an old faded poster of a missing Awakened hunter: a smiling bearded man in a sand-colored coat (Moussa), the words unreadable.",
+      "light": "Soft shade, dust beams.",
+      "fr": "Il passe devant l'affiche de son père disparu.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 26, "shot": "TGP",
+      "scene": "The poster.",
+      "chars": [], "outfit": {},
+      "action": "Extreme close-up of a faded printed poster showing a smiling 38-year-old West African man with a short black beard, high cheekbones, warm deep brown skin, wearing a sand-colored coat and a faded indigo scarf (the missing hunter Moussa Keïta, same face structure as Idriss); a corner of the poster peeling.",
+      "light": "Dusty sunlight.",
+      "fr": "Le visage de Moussa sur l'affiche.",
+      "texte": "(Récitatif) Moussa Keïta. Éveillé de rang Or. Disparu depuis douze ans.",
+      "sfx": ""
+    },
+    {
+      "n": 27, "shot": "GP",
+      "scene": "Same wall.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss touches his own scarf, eyes soft with an old unhealed wound, then looks away and keeps walking.",
+      "light": "Soft shade with a warm edge.",
+      "fr": "Il touche l'écharpe, puis repart.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 28, "shot": "VID",
+      "scene": "A sudden flashback panel, pale and washed out.",
+      "chars": [], "outfit": {},
+      "action": "Flashback: a laughing 38-year-old West African father (fit, short black beard, high cheekbones, warm deep brown skin, long sand-colored coat) crouches and ties a faded indigo scarf around the neck of his small 12-year-old son (thin boy, short curly black hair, a small crescent-shaped scar on his left eyebrow, tearful but brave smile); mostly empty pale background.",
+      "light": "Pale warm sepia tones with soft overexposure.",
+      "fr": "Flashback : le père noue l'écharpe à Idriss enfant.",
+      "texte": "MOUSSA : Porte-la jusqu'à mon retour, fiston.",
+      "sfx": ""
+    },
+    {
+      "n": 29, "shot": "PM",
+      "scene": "The main road at the edge of the Faubourg, with buses and motorbike taxis.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss wipes his eyes quickly with his sleeve, shakes his head to clear it, and jumps onto the back of a motorbike taxi.",
+      "light": "Bright white-gold daylight.",
+      "fr": "Il s'essuie les yeux et prend un moto-taxi.",
+      "texte": "",
+      "sfx": "VROUM"
+    },
+    {
+      "n": 30, "shot": "PE",
+      "scene": "A bridge over the Niger with the city skyline and the Tours du Soleil in the background, boats on the river.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Wide shot of the motorbike taxi crossing the bridge, Idriss a tiny figure; the Tours du Soleil glow ahead.",
+      "light": "Golden hour-like warm light on the river.",
+      "fr": "Il traverse le pont vers les Tours du Soleil.",
+      "texte": "(Récitatif) Les Tours du Soleil. Le Diwan des Éveillés. Là où l'on pèse les hommes.",
+      "sfx": ""
+    },
+    {
+      "n": 31, "shot": "CP",
+      "scene": "The foot of the sixty-floor Diwan tower, with the entrance plaza and a giant cowrie-shaped emblem above the doors.",
+      "chars": [], "outfit": {},
+      "action": "Dramatic low-angle shot of the Tours du Soleil towering above, Awakened hunters in shining armor walking in and out like celebrities.",
+      "light": "Brilliant sunlit glass and mud-brick-style facade.",
+      "fr": "Les Tours du Soleil écrasent la place.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 32, "shot": "PM",
+      "scene": "The plaza in front of the tower, crowds of hunters.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss walks across the plaza with his head slightly bowed, ignored by everyone; hunters in gleaming armor pass by without seeing him, one shoulder-bumping him.",
+      "light": "Bright harsh sun, hard shadows.",
+      "fr": "Personne ne le voit.",
+      "texte": "HUNTER (au passage) : Pousse-toi, le porteur !",
+      "sfx": ""
+    },
+    {
+      "n": 33, "shot": "PM",
+      "scene": "A departure yard beside the tower with an armored Diwan bus and raid gear.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss joins a small raid team gathering by a bus: a stern captain with a clipboard, a kind healer woman, and a smirking armored man (describe as unnamed extras).",
+      "light": "Bright daylight.",
+      "fr": "Il rejoint l'équipe de raid.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 34, "shot": "PM",
+      "scene": "Beside the bus.",
+      "chars": ["ID", "BC"], "outfit": {"ID": "A", "BC": "A"},
+      "action": "Brahim Cissé, arms crossed, smirks at Idriss, looking him up and down; Idriss avoids his eyes.",
+      "light": "Hard midday light on Brahim's gold chain.",
+      "fr": "Brahim le raille.",
+      "texte": "BRAHIM : Tiens, notre mule. Essaie de ne pas pleurer quand on arrivera.",
+      "sfx": ""
+    },
+    {
+      "n": 35, "shot": "GP",
+      "scene": "Beside the bus.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss smiles politely and says nothing, but his hand tightens on the scarf end.",
+      "light": "Soft shade.",
+      "fr": "Il serre l'écharpe et se tait.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 36, "shot": "PM",
+      "scene": "The bus door.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "A captain with a clipboard (Captain Sidibé, tall, calm, scarred jaw, steel-grey armor) checks Idriss's name on a list and nods gruffly.",
+      "light": "Bright daylight.",
+      "fr": "Le capitaine Sidibé coche son nom.",
+      "texte": "SIDIBÉ : Keïta, Idriss. Porteur. Sable. (il lève les yeux) Reste derrière. Ne touche à rien.",
+      "sfx": ""
+    },
+    {
+      "n": 37, "shot": "PM",
+      "scene": "Inside the bus, windows showing the Sahel landscape.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss sits on the last bench by a window, holding the wrapped beignet in his lap, smiling a little as he unwraps it.",
+      "light": "Warm window light, dust motes.",
+      "fr": "Il mange le beignet de Nour.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 38, "shot": "TGP",
+      "scene": "Bus window.",
+      "chars": [], "outfit": {},
+      "action": "Extreme close-up of the bus window reflecting Idriss's face while the landscape scrolls by: dry savanna, baobab silhouettes.",
+      "light": "Warm gold light, reflections.",
+      "fr": "Le paysage défile derrière son reflet.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 39, "shot": "PE",
+      "scene": "A dry savanna plain under a hot sky, the bus a tiny dot on a dirt road.",
+      "chars": [], "outfit": {},
+      "action": "Wide shot of the road leading toward a vertical shimmering distortion in the air on the horizon, a Sarab (mirage-portal), tall as a building, its air rippling like water.",
+      "light": "Hot yellow sky, shimmer.",
+      "fr": "À l'horizon, le Sarab de Gao-Nord scintille.",
+      "texte": "(Récitatif) Ce matin-là, il ne savait pas encore que ce serait la dernière fois qu'il porterait pour les autres.",
+      "sfx": ""
+    },
+    {
+      "n": 40, "shot": "GP",
+      "scene": "Inside the bus.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Idriss lifts his head and stares at the distant mirage through the bus window, a flicker of unease crossing his tired eyes.",
+      "light": "Hard shimmering light on his face.",
+      "fr": "Il fixe le mirage avec un frisson.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 41, "shot": "TGP",
+      "scene": "Idriss's eye.",
+      "chars": ["ID"], "outfit": {"ID": "A"},
+      "action": "Extreme close-up of Idriss's dark eye reflecting the shimmering mirage; a tiny hint of gold flickers in the reflection (only the reflection).",
+      "light": "Dark eye, a tiny gold glint.",
+      "fr": "Dans son œil, une lueur d'or presque invisible.",
+      "texte": "",
+      "sfx": ""
+    },
+    {
+      "n": 42, "shot": "VID",
+      "scene": "Black screen again.",
+      "chars": [], "outfit": {},
+      "action": "A solid black page with, at the very bottom, the same thin golden ink line resuming its movement, drawing a short curve like the start of a letter.",
+      "light": "Black with a gold line.",
+      "fr": "Fin : l'encre d'or reprend son trait.",
+      "texte": "(Récitatif) Ce jour-là, son nom n'était écrit nulle part.",
+      "sfx": ""
+    }
+  ]
+}

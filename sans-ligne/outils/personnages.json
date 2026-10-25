@@ -1,0 +1,190 @@
+{
+  "_style_prefix": "Korean webtoon (manhwa) style, high-contrast dramatic digital painting with crisp clean line art and soft cel-shading, cinematic lighting, very deep blacks, warm ochre and terracotta Sahelian palette with indigo shadows and glowing gold-ink accents (#F2C14E), dynamic camera angles, vertical webtoon composition. African and Arab setting, realistic proportions, expressive faces. No text, no letters, no speech bubbles, no watermark, no logo.",
+  "_negative": "Avoid: any text or letters, speech bubbles, chibi/cartoon proportions, photorealistic photography look, western superhero comic style, extra fingers, deformed hands, mismatched eyes, changing the character's hairstyle/scarf/scar/glasses, white-washed or lightened skin tones, generic fantasy elf/medieval European armor.",
+  "_shots": {
+    "TGP": "extreme close-up",
+    "GP": "close-up",
+    "PM": "medium shot",
+    "PA": "cowboy shot (mid-thigh up)",
+    "PE": "wide establishing shot",
+    "CP": "dramatic low-angle shot",
+    "PL": "high-angle shot looking down",
+    "OTS": "over-the-shoulder shot",
+    "SPL": "epic full-page splash composition",
+    "SIL": "pure silhouette shot",
+    "VID": "mostly empty panel with lots of negative space"
+  },
+  "ID": {
+    "name": "Idriss Keïta",
+    "core": "Idriss Keïta, 24-year-old West African man, lean tall build (176 cm), warm deep brown skin, oval face with high cheekbones, thin straight nose, tired dark eyes, a small crescent-shaped scar on his LEFT eyebrow, short tight black curly hair",
+    "acc": {
+      "scarf": "a faded indigo scarf (#2B3A7A) always tied around his neck with one end floating",
+      "cowrie": "a leather cord necklace with a single white cowrie shell"
+    },
+    "base": "Idriss Keïta, 24-year-old West African man, lean tall build (176 cm), warm deep brown skin, oval face with high cheekbones, thin straight nose, tired dark eyes, a small crescent-shaped scar on his LEFT eyebrow, short tight black curly hair, a faded indigo scarf (#2B3A7A) always tied around his neck with one end floating, a leather cord necklace with a single white cowrie shell",
+    "outfits": {
+      "A": "wearing a worn sand-beige canvas work jacket with patched elbows over a grey t-shirt, dark cargo pants, scuffed boots",
+      "bed": "wearing only a plain grey t-shirt and loose sleeping pants, barefoot",
+      "B": "wearing a fitted black coat with a high collar and discreet gold embroidery, fingerless gloves, leather boots",
+      "C": "wearing a long black 'ink coat' covered in moving golden calligraphy, indigo scarf with a thin gold thread",
+      "D": "wearing a longer black ink coat with dense gold glyphs and a copper shoulder piece, indigo scarf with a gold thread and a veil of indigo cloth knotted to it",
+      "E": "wearing the long ink coat with calligraphy turning white and fading",
+      "F": "wearing a simple indigo teacher's boubou, short beard, indigo scarf, no glyph on his hand"
+    },
+    "optional": {
+      "glyph": "a golden calligraphic reed-pen glyph glowing on the back of his right hand",
+      "ring": "a thin golden ring glowing around each iris (power active)"
+    }
+  },
+  "NO": {
+    "name": "Nour Keïta",
+    "base": "Nour Keïta, 16-year-old West African girl, 162 cm, soft brown skin, round face, big lively eyes behind round tortoiseshell glasses, long box braids half tied up with small copper beads at the ends",
+    "outfits": {
+      "A": "wearing a navy school pinafore over a white shirt",
+      "B": "wearing an ochre cardigan over a white shirt",
+      "C": "wearing a practical dark healer's tunic with a pale blue sash"
+    },
+    "optional": {
+      "glyph": "a silver-blue glowing glyph on her left palm"
+    }
+  },
+  "MA": {
+    "name": "Mariam Keïta",
+    "base": "Mariam Keïta, 48-year-old West African woman, thin from illness, soft round face with hollow cheeks, kind tired eyes, wearing a bright orange-and-turquoise wax-print headwrap and a grey shawl",
+    "outfits": {"A": "wearing a faded wax-print dress under her shawl"}
+  },
+  "BI": {
+    "name": "Yaye Binta",
+    "base": "Yaye Binta, 79-year-old West African grandmother and griot, tiny and fragile, white hair under an indigo-and-white headwrap, many small gold earrings, deeply wrinkled warm smile, a bogolan mud-cloth shawl, carrying a traditional 21-string kora with a calabash body",
+    "outfits": {"A": "wearing a long faded indigo dress"}
+  },
+  "MOU": {
+    "name": "Moussa Keïta",
+    "base": "Moussa Keïta, 50-year-old West African man, broad strong build (185 cm), warm deep brown skin, same high cheekbones as his son, short salt-and-pepper beard, a long sand-colored coat, a faded indigo scarf identical to his son's",
+    "outfits": {"A": "in a long sand coat", "young": "as a 38-year-old with a black beard, fit, laughing"}
+  },
+  "SF": {
+    "name": "Safiya Aït-Mansour",
+    "base": "Safiya Aït-Mansour, 26-year-old Amazigh (Berber) woman, athletic build (172 cm), olive-brown skin, amber eyes, long wavy dark-brown hair in a high braided ponytail held by a silver Amazigh fibula clasp, small blue tattoo (three dots and a line) on her chin, charcoal combat jacket, copper-red scarf, silver Amazigh bracelets, two curved short swords on her back",
+    "outfits": {"A": "in her combat outfit"}
+  },
+  "YA": {
+    "name": "Yaw Mensah",
+    "base": "Yaw Mensah, 28-year-old Ghanaian man, very tall (190 cm) and broad, dark skin, shaved head, short beard, huge friendly grin, grey armored vest trimmed with kente cloth, carrying a huge grey tower shield engraved with a golden Gye Nyame adinkra symbol",
+    "outfits": {"A": "in his armored vest"}
+  },
+  "BS": {
+    "name": "Haj Boubacar Sy",
+    "base": "Haj Boubacar Sy, 63-year-old West African man, short silver beard, calm mischievous eyes, white boubou with gold trim, round felt cap, a wooden staff with a silver top",
+    "outfits": {"A": "in his white boubou"}
+  },
+  "SAL": {
+    "name": "Baba Salim",
+    "base": "Baba Salim, ageless thin old man (~70), white goatee, crooked knowing smile, round amber-tinted glasses, a dark robe with a faint star pattern, holding a brass teapot and a tray with three small tea glasses",
+    "outfits": {"A": "in his dark star-pattern robe"}
+  },
+  "KE": {
+    "name": "Kenza El Fassi",
+    "base": "Kenza El Fassi, 27-year-old Moroccan engineer, light olive skin with freckles, asymmetrical dark-teal bob haircut, aviator goggles pushed up on her forehead, orange work overalls full of tools, carrying a tablet",
+    "outfits": {"A": "in orange overalls"}
+  },
+  "AF": {
+    "name": "Pr. Aminata Fall",
+    "base": "Professor Aminata Fall, 52-year-old tall Senegalese woman, grey locs under a wax-print headwrap, large round glasses, long blazer, carrying leather notebooks",
+    "outfits": {"A": "in a long blazer"}
+  },
+  "BC": {
+    "name": "Brahim Cissé",
+    "base": "Brahim Cissé, 30-year-old West African man, 185 cm, thick neck, buzz cut with faded sides, a scar on his lip, a gold chain, black sleeveless armor with copper plates",
+    "outfits": {"A": "in black sleeveless armor", "arm": "with a mechanical copper prosthetic left arm"}
+  },
+  "HD": {
+    "name": "Hamidou Diop",
+    "base": "Hamidou Diop, 52-year-old plump West African man, pinstripe suit, silver cufflinks, many gold rings, a string of gold prayer-style beads between his fingers, charming smile",
+    "outfits": {"A": "in a pinstripe suit"}
+  },
+  "MD": {
+    "name": "Moustapha Doumbia",
+    "base": "Moustapha Doumbia, 58-year-old thin West African man with a lined face, circular spectacles, grey suit with a high collar, a thin polite smile",
+    "outfits": {"A": "in a grey high-collar suit"}
+  },
+  "JO": {
+    "name": "Jamila Oyelaran",
+    "base": "Jamila Oyelaran, 29-year-old Nigerian-Lebanese reporter, natural curls tied with a bright yellow headband, bright yellow raincoat, a small round camera drone floating beside her",
+    "outfits": {"A": "in her yellow raincoat"}
+  },
+  "NF": {
+    "name": "Commandant Nasser Fahmy",
+    "base": "Commander Nasser Fahmy, 45-year-old Egyptian army officer, thick mustache, desert fatigues, two missing fingers on his left hand",
+    "outfits": {"A": "in desert fatigues"}
+  },
+  "AH": {
+    "name": "Adjoké Hounsou",
+    "base": "General Adjoké Hounsou, 40-year-old tall Beninese woman warrior, shaved head, red and white warrior outfit, ritual scars, a machete called gbo",
+    "outfits": {"A": "in red and white warrior outfit"}
+  },
+  "TM": {
+    "name": "Tendai Moyo",
+    "base": "Tendai Moyo, 35-year-old Zimbabwean stone sculptor and hunter, dreadlocks, dusty linen apron, a stone hammer, patient gaze",
+    "outfits": {"A": "in a dusty linen apron"}
+  },
+  "ZM": {
+    "name": "Zayed Al-Mansouri",
+    "base": "Zayed Al-Mansouri, 33-year-old Emirati falconer-hunter, groomed beard, a modern white tunic-jacket with a gold falcon emblem, a white falcon perched on his arm",
+    "outfits": {"A": "in his white falconer's jacket"}
+  },
+  "AM": {
+    "name": "Amghar",
+    "base": "Amghar, a 2.1 m tall spectral Tuareg knight made of deep indigo-black smoke, face fully veiled by an indigo tagelmust leaving only two glowing gold eyes, long straight takouba sword, robes edged with flowing golden Arabic-style calligraphy glyphs, leather armor pieces dissolving into smoke",
+    "outfits": {"A": ""}
+  },
+  "FE": {
+    "name": "Fennek",
+    "base": "Fennek, a small desert fennec fox with huge ears, made of indigo-black smoke with golden calligraphic glyph spots on its fur, glowing gold eyes, playful posture",
+    "outfits": {"A": ""}
+  },
+  "AG": {
+    "name": "Agadir",
+    "base": "Agadir, a 3 m tall golem built of stacked red rammed-earth blocks like Atlas fortress walls, tadelakt-glossy surface, golden glyph cracks glowing between blocks, calm face carved with a single slit",
+    "outfits": {"A": ""}
+  },
+  "WE": {
+    "name": "Wepwawet",
+    "base": "Wepwawet, a 2 m lean jackal-headed warrior made of indigo-black smoke, white linen kilt, golden collar, long reed spear, golden hieroglyph-like glyphs, glowing gold eyes",
+    "outfits": {"A": ""}
+  },
+  "NE": {
+    "name": "Neser",
+    "base": "Neser, a giant vulture with a 6 m wingspan made of indigo-black smoke with golden feather edges and gold eyes, bald head, powerful talons",
+    "outfits": {"A": ""}
+  },
+  "JA": {
+    "name": "Jarad",
+    "base": "Jarad, a 2.4 m locust warrior with four translucent wings and scythe-like forearms, dark indigo exoskeleton with golden calligraphic lines, orange compound eyes turning gold",
+    "outfits": {"A": ""}
+  },
+  "DI": {
+    "name": "Dieli",
+    "base": "Dieli, a tall slender spirit griot made of indigo smoke, patchwork robe, a mask of white cowrie shells, playing a glowing kora whose strings are lines of gold ink",
+    "outfits": {"A": ""}
+  },
+  "BID": {
+    "name": "Bida",
+    "base": "Bida, a colossal black serpent with white eyes, curved horns, scales with golden calligraphy, coiled around a river",
+    "outfits": {"A": ""}
+  },
+  "MW": {
+    "name": "Mami",
+    "base": "Mami, a graceful 2 m water spirit woman with long wet locks, a python around her shoulders, holding a round mirror, made of blue-indigo smoke with gold glyphs",
+    "outfits": {"A": ""}
+  },
+  "ZAM": {"name": "Zamma", "base": "Zamma, Throne of Thirst: a skeletal colossus with skin of cracked dry earth, eye sockets full of sand", "outfits": {"A": ""}},
+  "AJ": {"name": "Abou-Jarad", "base": "Abou-Jarad, King of the Swarm: a tall locust king in green and gold exoskeleton with a huge cape of wings and many eyes", "outfits": {"A": ""}},
+  "OH": {"name": "Oum-Humma", "base": "Oum-Humma, Throne of Fever: a tall woman in torn red veils, cracked skin, ember-lit eyes, surrounded by buzzing mosquitoes", "outfits": {"A": ""}},
+  "DH": {"name": "Dhahab", "base": "Dhahab, Throne of Gold: a handsome man made of liquid gold in royal robes with a crown of coins, golden eyes", "outfits": {"A": ""}},
+  "SRO": {"name": "Sarab-Roi", "base": "the Mirage King: a shifting silhouette wearing a mirror mask", "outfits": {"A": ""}},
+  "HB": {"name": "Harb", "base": "Harb, Throne of War: an armored giant of bone with four arms holding weapons and a bone mask", "outfits": {"A": ""}},
+  "SMO": {"name": "Samoum", "base": "Samoum, Throne of the Red Wind: a veiled woman made of a swirling red sandstorm", "outfits": {"A": ""}},
+  "SAK": {"name": "Sakt", "base": "Sakt, Throne of Silence: a grey faceless, mouthless robed figure", "outfits": {"A": ""}},
+  "ABY": {"name": "Al-Bayaad", "base": "Al-Bayaad, the Blank Page: a translucent white figure in a white veil with a single black ink line in place of eyes", "outfits": {"A": ""}}
+}
